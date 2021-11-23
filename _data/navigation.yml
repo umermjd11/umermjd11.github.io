@@ -13,8 +13,8 @@ main:
     url: /skills/   
     
 
-  - title: "Certifications"
-    url: /certifications/ 
+  - title: "MOOCS"
+    url: /moocs/ 
 
   - title: "Courses"
     url: /courses/ 
