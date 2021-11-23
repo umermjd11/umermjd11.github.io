@@ -10,7 +10,7 @@ Blockchain
 ===========
 Remix, Testnets, Ethereum, Web3.py Web3.js, Truffle, Ganache, Solidity, Python
 
-Data Science
+Data Science 
 ===========
 Plotly, Dash, Pandas, Numpy, Kaggle, Python, R
 
