@@ -3,7 +3,7 @@ title: "Certifications"
 permalink: /certifications/
 ---
 
-I have got follwing certifications:
+I have got following certifications:
 
 Blockchain
 ===========
