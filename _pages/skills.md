@@ -28,4 +28,4 @@ Python, R, JavaScript, PHP, JQuery, C, C++, Julia, MatLAB, Solidity
 
 Other Skills
 ===========  
-Beautiful Soup, HTML, CSS, Selenium, Linux, Github
+Beautiful Soup, HTML, CSS, Selenium, Linux, Bash, Github
