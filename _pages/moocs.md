@@ -1,5 +1,5 @@
 ---
-title: "MOOCS"
+title: "MOOCs"
 permalink: /moocs/
 ---
 
