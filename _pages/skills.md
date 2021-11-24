@@ -24,8 +24,8 @@ Tenseal, Tensorflow Federated, PySyft, Duet, Python
 
 Programming
 ===========
-Python, R, JavaScript, PHP, JQuery, C, C++, Julia, MatLAB, Solidity
+Python, R, JavaScript, PHP, JQuery, C, C++, Julia, MatLAB, Solidity, SQL, Ajax
 
 Other Skills
 ===========  
-Beautiful Soup, HTML, CSS, Selenium, Linux, Bash, Github
+Beautiful Soup, HTML, CSS, Selenium, Linux, Bash, Github, JSON
