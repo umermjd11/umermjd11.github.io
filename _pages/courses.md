@@ -74,36 +74,3 @@ Bachelor's
 42. Entrepreneurship
 43. Engineering Project Management
 44. Community Service Learning
-
-
-Intermediate (Pre-Engineering)
-===========
-1. English - I
-2. Urdu - I
-3. Mathematics - I
-4. Physics - I
-5. Chemistry - I
-6. Islamiyat
-1. English - II
-2. Urdu - II
-3. Mathematics - II
-4. Physics - II
-5. Chemistry - II
-6. Pakistan Studies
-
-Matric (Biology-Science)
-===========
-1. English - I
-2. Urdu - I
-3. Mathematics - I
-4. Physics - I
-5. Chemistry - I
-6. Biology - I
-6. Islamiyat
-1. English - II
-2. Urdu - II
-3. Mathematics - II
-4. Physics - II
-5. Chemistry - II
-6. Biology - II
-6. Pakistan Studies
