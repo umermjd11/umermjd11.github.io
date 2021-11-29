@@ -45,7 +45,7 @@ Data Science
 
 Private and Secure AI
 ===========
-1. Our Privacy Opportunity[![course site](https://courses.openmined.org/openmined.5132b21.png){: style="width: 80px; height 50px"}](https://courses.openmined.org/courses/our-privacy-opportunity/) A Course by [openmined.org](https://www.openmined.org/) -  ![No certificate available yet]({{ site.url }}/images/nocertificate.png){: style="width: 80px; height 60px"} ![Completed](https://thumbs.dreamstime.com/b/completed-sign-sticker-stamp-vector-texture-171675116.jpg){: style="width: 80px; height 60px"} 
+1. Our Privacy Opportunity[![course site](https://courses.openmined.org/openmined.5132b21.png){: style="width: 80px; height 50px"}](https://courses.openmined.org/courses/our-privacy-opportunity/) A Course by [openmined.org](https://www.openmined.org/) -  ![No certificate available yet]({{ site.url }}/images/nocertificate.png){: style="width: 160px; height 60px"} ![Completed](https://thumbs.dreamstime.com/b/completed-sign-sticker-stamp-vector-texture-171675116.jpg){: style="width: 80px; height 60px"} 
 
 1. Foundations of Private Computation [![course site](https://courses.openmined.org/openmined.5132b21.png){: style="width: 80px; height 50px"}](https://courses.openmined.org/courses/foundations-of-private-computation) A Course by [openmined.org](https://www.openmined.org/)  ![In progress](https://st4.depositphotos.com/2274151/27787/v/450/depositphotos_277873508-stock-illustration-in-progress.jpg){: style="width: 80px; height 60px"} 
 
