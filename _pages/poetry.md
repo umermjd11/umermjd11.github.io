@@ -46,5 +46,66 @@ Two - liners
 {: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
 تو میرے مزاج کی منظر کشی ایسے مت کر<br> پہلے مجھے سمجھا دے کہ کون ہوں میں
 
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+پھر سے دل میں ٹھیس اٹھی ہے پھر پاؤں ڈگمگا گے ہیں<br> چلو آو آج پھر اس دل مضطرب کا تماشا دیکھتے ہیں
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+گوہر عشرت ڈھونڈنے تو پردیس مت جا<br> جان لے کہ دنیا عشرت کدہ نہیں
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+رات بھر تیری یاد میں جو اشک بہاۓ جاتے ہیں<br> صحرا بھی اگر چن لے تو سمندر ہو جائے
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+بٹھکتے رہے ساری عمر، منزل نہ ملی<br> گویا مقصد حیات آوارگی تھا
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+تو میرے کندھے پر سر رکھ دے یا میں تیری گود میں سر<br> دو جہاں سے بےنیازی کے محض  یہی دو راستے ہیں
 
 
+
+Ghazals
+===========
+
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+ آفتاب ھے، آفتاب کی کرن ہے، شجر ہے اور آبشار بھی <br> 
+بس اک تم نہیں زیست میں کہ بیتاب ھیں میرے خواب وخیال بھی <br> 
+تیرے ساتھ کی چاہت ھے کہ پیاسے ھیں میرے لب اضطراب بھی <br> 
+ان دھڑکنوں کو تم سمجھو کہ ان میں ھے اک آہوزار بھی <br> 
+یہ تیری چاہت ھے یا قدرت کے اصول <br> 
+کہ پاگل دیوانہ میں تیرا ہاں آج بھی آج بھی <br> 
+نہ اس عشق کو جھٹلاؤ کہ میرا عشق ہے نایاب <br> 
+کہ اک خلقت ترس رہی ہے پیار کو آج بھی آج بھی 
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+سیماب وار زیست کا کچھ تو حاصل ہو <br> 
+اے نازنیں تم میری حسرتوں کا محاصل ہو <br> 
+میری باہوں میں, میری آغوش میں آج تم مچل لو <br> 
+اے پریوش کوئی نہیں جو آج تیرے مقابل ہو <br> 
+خوابوں کو سجایا میں نے صرف تیرے لئے ہے <br> 
+خود کو اس قابل میں نے بنایا صرف تیرے لئے ہے <br> 
+قیس تھا، فرہاد تھا، رانجھا بھی مٹ چکا <br> 
+آج اک نئی داستان کا آغاز صرف تیرے لیے ہے <br> 
+آؤ خوشیوں سے ہم یہ آنگن بھر دیں <br> 
+آج ایک دوسرے کو ہم کامل کر دیں <br> 
+محبت، پیار، دیوانگی، بے تابی، عاشقی <br> 
+یہ سب زندگی میں شامل کردیں 
+
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+نینوں نے تیری یاد میں بحر اشک بہا دیا ہے <br> 
+ستم گر تیرے وار  نے یہ پتھر دل تڑپا دیا ہے<br> 
+اپنے دیوانے کو تم ساحل پر واپس لے آو جاناں  <br> 
+کہ جنوں عشق نے سمندر میں طوفان اٹھا دیا ہے <br> 
+کل متاع دو جہاں ہے اب صنم  صرف تو میرے لیے<br> 
+ اس یقین نےعمر تجھے کافر بنا دیا ہے<br> 
+
+ {: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+وحشت دل کا کچھ تو علاج کیجئے<br> 
+دشت تنہائی میں ہمسے ملا کیجئے<br> 
+وہ تو خدا سے بھی بد زن ھو چکا <br> 
+آپ اب بس اس کے لئیے دعا کیجئے<br> 
+شہر چھوڑ کر دور اک کٹیا بنا لیں<br> 
+بے درد زمانے میں اور کیا کیجئے <br> 
+عمر وہ یاد آۓ اب کبھی بھی<br> 
+دیوانگی میں سر جھٹک دیا کیجئے
