@@ -151,6 +151,25 @@ Two - liners
 ![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
 
 
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+پوچھتے ہیں وہ شب و روز کا ہم سے<br> کوئ بتلاۓ کہ ہم بتلائیں کیا?
+
+![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+تجھے پا کر بھی تشنہ لب کیوں رہیں؟<br> خدا قسم ہم سے یہ کفرانِ نعمت نہ ہو پاۓ گا
+
+![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+سر پھوڑوں یا سینا چیر لوں<br> ترے فراق نے چھین لی ہے قوت فیصلہ مجھ سے
+
+![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+تم بھی، میں بھی اور یہ زیست بھی فریب <br>  ہے یہ گمان اب تو کہ گمان بھی فریب
+
+![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
 
 Ghazals
 ===========
@@ -523,5 +542,59 @@ Ghazals
  کہ اب سے تمھیں ہی رازداں بنا لیتا ہوں <br>
 یہ کیسی وہشت ہے یہ کیسا سرور  ہے عمر  <br>
 کہ دیوانگی کو میں زندگی مان لیتا ہوں 
+
+![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+زندگی کی پھر وہی کہانی ہے <br>
+چار سو بس ویرانی ہے<br>
+سوچا تھا نیا سال آے گا <br>
+پر اس میں بھی ایذا رسانی ہے<br>
+تیرے ہوتے ہوے بھی ساقیا <br>
+کیوں اکشوں کی یہ  روانی ہے<br>
+چلو آج اک ملاقات رکھو ساقی کہ <br>
+اک آب بیتی تمہیں سنانی ہے<br>
+کچھ لوگوں نے کہا تھا کہ <br>
+ بس  چار دن کی جان فشانی ہے<br>
+ محنت کر لو ان روز و شب <br>
+پھر اس کے بعد شادمانی ہے <br>
+غم عشق سنبھالوں یا غم روزگار کو  <br>
+ یہ الجھن تو لازمانی ہے<br>
+بلا کے جہاں میں طوفانوں کو سونپ دیا <br>
+اے خدا کیا یہی تیری میزبانی ہے<br>
+اک  آیشانہ ہی فقط مانگ لوں میں  <br>
+سنا ہے جہاں میں نعمتوں کی فروانی ہے   <br>
+سوچتا رہتے ہو اداسی کا  کارن جو  عمر<br>
+ندا آی ہے کہیں سے کے خدا کی نافرمانی ہے 
+![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+اس ظلمت شب کی صبح کب ہوگی؟<br>
+دشت تنہائی میں ملن کی فضا کب ہوگی؟<br>
+دیکھو وہ غم جاناں میں حواس کھو بیٹھا ہے<br>
+ اس سے بڑھ کہ تکمیل عشق اور کیا ہو گئ<br>
+اہل خرد تھا کبھی یہ بنوں میں پھرتا مارا مارا<br>
+اب اس سے بڑھ کر دیوانگی اور کیا ہوگی<br>
+
+![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+آج تم سے کچھ کہنا ہے <br>
+غم جدائی اب نہیں سہنا ہے <br>
+تم آ جاؤ ہمیں جینا سکھا دو <br>
+کہ اب اک پل بھی نہیں چینا ہے  <br>
+تمہیں آج یہ پیام دینا ہے <br>
+ڈھلتی شام میں  تیرے ہمراہ چلناہے<br>
+
+![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
+
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+کتنا درد ہے کیا بتاؤں تجھ کو<br>
+اے دل یہ کیسے خیال آتے ہیں مجھ کو <br>
+چاۓ کی پیالی میں طوفان اٹھا رہا ہوں میں <br>
+یا الہی یہ کیا ہو گیا میری سمجھ کو <br>
+  تنہای کے مارے ہو تم  اے دل اور پوچھتے ہو کہ  <br>
+یہ غالب و جون کی ادا کیسے آی مجھ کو<br>
+
 
 ![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
