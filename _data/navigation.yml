@@ -2,6 +2,7 @@
 main:
   - title: "Publications"
     url: /publications/
+    exclude: false
 
   # - title: "Talks"
   #   url: /talks/    
@@ -10,17 +11,21 @@ main:
   #   url: /teaching/ 
 
   - title: "Skills"
-    url: /skills/   
+    url: /skills/ 
+    exclude: false  
     
 
   - title: "MOOCs"
     url: /moocs/ 
+    exclude: false
 
   - title: "Courses"
     url: /courses/ 
+    exclude: false
   
   - title: "Portfolio"
     url: /portfolio/
+    exclude: false
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -30,3 +35,8 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
+
+  - title: "Poetry"
+    url: /poetry/
+    exclude: true
