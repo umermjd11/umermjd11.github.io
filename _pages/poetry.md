@@ -598,3 +598,23 @@ Ghazals
 
 
 ![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
+
+English
+===========
+
+![paragraph-end](https://static01.nyt.com/images/2012/09/18/arts/MUSEUM/MUSEUM-superJumbo.jpg){: style="width: 300px; display: block; margin-left: auto; margin-right: auto;"} 
+
+{: style="color:blue;font-size:13px;padding-left:53px; text-align: left;"}
+neuroticism is a devil<br>
+I don't like him<br>
+He is the one who actually<br>
+Painted The scream<br>
+Edvard Munch was just the tool<br>
+The devil possess Edvard<br>
+and painted The scream<br>
+But Edvard originally wanted to paint<br>
+A butterfly sitting on a flower<br>
+Oh neuroticism you ruined <br>
+Edvard's beautiful endeavour<br>
+
+![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 

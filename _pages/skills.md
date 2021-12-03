@@ -29,3 +29,7 @@ Python, R, JavaScript, PHP, JQuery, C, C++, Julia, MatLAB, Solidity, SQL, Ajax
 Other Skills
 ===========  
 Beautiful Soup, HTML, CSS, Selenium, Linux, Bash, Github, JSON
+
+Familar IDEs and text Editors
+===========  
+Pycharm, CLion, PhpStorm, Jupyter Notebooks, Jupyter Lab, Sublime, Notepad++
