@@ -3,6 +3,7 @@ title: "Poetry"
 permalink: /poetry/
 ---
 
+This page shows poetry written by me.
 
 Two - liners
 ===========
@@ -524,14 +525,10 @@ Ghazals
 ![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
 
 {: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
-اشکوں سے میں نے ساگر بھر دیا اور شراب سے جام<br>
-وہی زیست کی ویرانی ہے وہی بیزار سی شام<br>
- انکے کوچے سے اب مت آٹھیو<br>
-کبھی تو وہ لیں گے میرا نام<br>
-جھلک دیکھنے تیری عدم سے بھیجا گیا مجھے<br>
- اس جہان خراب میں میرا  اور ہے کیا کام؟<br>
-شب کمخواب ، جزبات عطشِ شدید اور تمنا بےتاب<br>
-کس  ناز سے بھیجیں اب تجھے یہ پیغام
+آکاش میرا سایہ بان<br>
+زمین میرا بچھونا ہے <br>
+آنسو میرے  ابر دریا بار<br>
+صحرا میرا کھلونا ہے
 
 ![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
 
@@ -599,6 +596,15 @@ Ghazals
 
 ![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
 
+{: style="color:blue;font-size:13px;padding-left:53px; font-family:Nafees Nastaleeq;text-align: right;"}
+ان لبوں کی تشنگی کو سیراب کرنے آ جاؤ<br>
+چمن میں بہار آئ ھے ہمیں خوشاد کرنے آ جاؤ<br>
+کب تلک جئیں گے تیری یادوں کے سہارے<br>
+قرار ایک پل نہیں ہے تم ہمیں پیار کرنے آجاؤ
+
+
+![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
+
 English
 ===========
 
@@ -616,5 +622,13 @@ But Edvard originally wanted to paint<br>
 A butterfly sitting on a flower<br>
 Oh neuroticism you ruined <br>
 Edvard's beautiful endeavour<br>
+
+![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
+
+{: style="color:blue;font-size:13px;padding-left:53px; text-align: left;"}
+The sky is my shelter<br>
+The Earth is my bed<br>
+My tears can fill oceans<br>
+The desert is my playfield
 
 ![paragraph-end]({{ site.url }}/images/urduparadivider.png){: style="width: 240px; display: block; margin-left: auto; margin-right: auto;"} 
