@@ -40,3 +40,7 @@ main:
   - title: "Poetry"
     url: /poetry/
     exclude: true
+
+  - title: "Books"
+    url: /books/
+    exclude: true
