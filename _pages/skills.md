@@ -32,7 +32,7 @@ Beautiful Soup, HTML, CSS, Selenium, Linux, Bash, Github, JSON
 
 Familar IDEs and text Editors
 ===========  
-Pycharm, CLion, PhpStorm, Jupyter Notebooks, Jupyter Lab, Sublime, Notepad++
+Pycharm, CLion, PhpStorm, Jupyter Notebooks, Jupyter Lab, Sublime, Notepad++, Visual Studio Code
 
 Familar OS
 ===========  
