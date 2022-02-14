@@ -8,7 +8,7 @@ I have skills and interest in following:
 
 Blockchain
 ===========
-Remix, Testnets, Ethereum, Web3.py Web3.js, Truffle, Ganache, Solidity, Smart Contracts, Python, TypeScript, hardhat, brownie, surya
+Remix, Testnets, Ethereum, Web3.py Web3.js, Truffle, Ganache, Solidity, Smart Contracts, Python, TypeScript, hardhat, brownie, surya, ERC20, ERC721, openzeppelin-solidity
 
 Data Science 
 ===========

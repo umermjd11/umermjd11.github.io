@@ -9,6 +9,7 @@ Blockchain
 ===========
 1. "Solidity Programming Essentials: A beginner's guide to build smart contracts for Ethereum and blockchain" by Ritesh Modi ![Completed](https://thumbs.dreamstime.com/b/completed-sign-sticker-stamp-vector-texture-171675116.jpg){: style="width: 80px; height 60px"}
 2. "Solidity Smart Contracts: Build DApps In Ethereum Blockchain" by Rangel Stoilov  ![Completed](https://thumbs.dreamstime.com/b/completed-sign-sticker-stamp-vector-texture-171675116.jpg){: style="width: 80px; height 60px"}
+3. "Mastering Blockchain Programming with Solidity" by Jitendra Chittoda  ![Completed](https://thumbs.dreamstime.com/b/completed-sign-sticker-stamp-vector-texture-171675116.jpg){: style="width: 80px; height 60px"}
 
 
 Data Science
@@ -28,4 +29,6 @@ Solidity
 ---------------
 1. "Solidity Programming Essentials: A beginner's guide to build smart contracts for Ethereum and blockchain" by Ritesh Modi ![Completed](https://thumbs.dreamstime.com/b/completed-sign-sticker-stamp-vector-texture-171675116.jpg){: style="width: 80px; height 60px"}
 2. "Solidity Smart Contracts: Build DApps In Ethereum Blockchain" by Rangel Stoilov  ![Completed](https://thumbs.dreamstime.com/b/completed-sign-sticker-stamp-vector-texture-171675116.jpg){: style="width: 80px; height 60px"}
+3. "Mastering Blockchain Programming with Solidity" by Jitendra Chittoda  ![Completed](https://thumbs.dreamstime.com/b/completed-sign-sticker-stamp-vector-texture-171675116.jpg){: style="width: 80px; height 60px"}
+
 
