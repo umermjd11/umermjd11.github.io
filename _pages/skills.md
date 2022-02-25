@@ -28,7 +28,7 @@ Python, pip, R, TypeScript, npm, Node.js, JavaScript, PHP, JQuery, C, C++, Julia
 
 Other Skills
 ===========  
-Beautiful Soup, HTML, CSS, Markdown, Selenium, Linux, Bash, Github, JSON, OneNote
+Beautiful Soup, HTML, CSS, Markdown, Selenium, Linux, Bash, Github, JSON, OneNote, Latex
 
 Familar IDEs and text Editors
 ===========  
