@@ -2,6 +2,7 @@
 title: "Portfolio"
 permalink: /portfolio/
 ---
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 Data Science
 ===========
@@ -11,7 +12,9 @@ Data Science
 4. Kaggle Notebook "Ecommerce-best selling category" [![notebook link](https://banner2.cleanpng.com/20180704/yco/kisspng-kaggle-predictive-modelling-data-science-business-5b3c8fc356f806.4702207815306956193562.jpg){: style="width: 80px; height 50px"}](https://www.kaggle.com/umermjd11/ecommerce-best-selling-category/) on "Pakistan's Largest E-Commerce Dataset" [![dataset site](http://www.endtoend.ai/assets/blog/tutorial/kaggle-dataset-ubuntu/kaggle.png){: style="width: 80px; height 50px"}](https://www.kaggle.com/zusmani/pakistans-largest-ecommerce-dataset)
 5. Kaggle Notebook "EDA-PCD" [![notebook link](https://banner2.cleanpng.com/20180704/yco/kisspng-kaggle-predictive-modelling-data-science-business-5b3c8fc356f806.4702207815306956193562.jpg){: style="width: 80px; height 50px"}](https://www.kaggle.com/umermjd11/eda-pcd) on "Pakistan-PHD country directory (PCD)" [![dataset site](http://www.endtoend.ai/assets/blog/tutorial/kaggle-dataset-ubuntu/kaggle.png){: style="width: 80px; height 50px"}](https://www.kaggle.com/umermjd11/pakistanphd-country-directory-pcd)
 
+Blockchain and Smart Contract
+===========
 
-
- 
+1. [Whitelist-Dapp](https://dappwhitelist-cqz453n0n-umermjd11.vercel.app/). This Dapp white list upto 10 addresses.
+  <span class="w3-tag w3-blue">react.js</span> <span class="w3-tag w3-blue">next.js</span> <span class="w3-tag w3-blue">ether.js</span> <span class="w3-tag w3-blue">Web3Modal</span>
 
