@@ -2,38 +2,111 @@
 title: "Skills"
 permalink: /skills/
 ---
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 I have skills and interest in following: 
 
-
 Blockchain
 ===========
-Remix, Testnets, Ethereum, Web3.py Web3.js, ethers.js, Truffle, Ganache, Solidity, Smart Contracts, Python, TypeScript, hardhat, brownie, surya, ERC20, ERC721, openzeppelin-solidity
+<span class="w3-tag w3-green" style="margin-bottom:5px">Remix</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Ethereum Testnets</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Ethereum Programming</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Web3.py</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Web3.js</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">ethers.js</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Truffle</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Ganache</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Solidity</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Smart Contracts</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Python</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">TypeScript</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">hardhat</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">brownie</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">surya</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">ERC20</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">ERC721</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">openzeppelin-solidity</span>
+
 
 Data Science 
 ===========
-Plotly, Dash, Pandas, Numpy, Kaggle, Python, R, HAgrid
+<span class="w3-tag w3-green" style="margin-bottom:5px">Plotly</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Dash</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Pandas</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Numpy</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Kaggle</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Python</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">R</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">HAgrid</span>
+
 
 Artificial Intilligence
 ===========
-Pytorch, Tensorflow, Python, Keras, HAgrid
+<span class="w3-tag w3-green" style="margin-bottom:5px">Pytorch</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Tensorflow</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Python</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Keras</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">HAgrid</span>
 
 Private and Secure AI
 ===========
-Tenseal, Tensorflow Federated, PySyft, Duet, Python
+<span class="w3-tag w3-green" style="margin-bottom:5px">Tenseal</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Tensorflow Federated</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">PySyft</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Duet</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Python</span>
 
 Programming
 ===========
-Python, pip, R, TypeScript, npm, Node.js, JavaScript, PHP, JQuery, C, C++, Julia, MatLAB, Solidity, SQL, Ajax, Git, mocha, chai
+<span class="w3-tag w3-green" style="margin-bottom:5px">Python</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">pip</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">TypeScript</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">R</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">npm</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Node.js</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">JavaScript</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">JQuery</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">PHP</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">C</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">C++</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Julia</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">MatLAB</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Solidity</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">SQL</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Ajax</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Git</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">mocha</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">chai</span>
+
 
 Other Skills
 ===========  
-Beautiful Soup, HTML, CSS, Markdown, Selenium, Linux, Bash, Github, JSON, OneNote, Latex
+<span class="w3-tag w3-green" style="margin-bottom:5px">Beautiful Soup</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">HTML</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">CSS</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Markdown</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Selenium</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Linux</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Bash</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Github</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">JSON</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">OneNote</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Latex</span>
 
 Familar IDEs and text Editors
 ===========  
-Pycharm, CLion, PhpStorm, Jupyter Notebooks, Jupyter Lab, Sublime, Notepad++, Visual Studio Code
+<span class="w3-tag w3-green" style="margin-bottom:5px">Pycharm</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">CLion</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">PhpStorm</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Jupyter Notebooks</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Jupyter Lab</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Sublime</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Notepad++</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Visual Studio Code</span>
+
 
 Familar OS
 ===========  
-Ubuntu, Kali Linux, Windows
+<span class="w3-tag w3-green" style="margin-bottom:5px">Ubuntu</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Kali Linux</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Windows</span>
