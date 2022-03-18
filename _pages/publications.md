@@ -35,6 +35,9 @@ Domestic Journals (Korean)
 
 Domestic Conferences (Korean)
 ===========
+4. **Umer Majeed**, Choong Seon Hong, "Multi-dimensional knapsack problem for Resource Allocation to UEs through UAV," 2021년 한국소프트웨어종합학술대회(KSC 2021), 2021.12.21~23. [Link Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035674) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/umerksc2021.pdf)  
+4. Sheikh Salman Hassan, **Umer Majeed**, Choong Seon Hong, "LS-NRO: LEO-Satellite Network Resources Optimization for Future 6G Communication Systems", 2021년 한국소프트웨어종합학술대회(KSC 2021), 2021.12.21~23. [Link Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035897) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/salmanksc2021.pdf) 
+
 4. **Umer Majeed**, Sheikh Salman Hassan, Choong Seon Hong, "Vanilla Split Learning for Transportation Mode Detection using Diverse Smartphone Sensors", 2021년 한국컴퓨터종합학술대회(KCC 2021), 2021.06.23. [Link Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583103) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/umer_kcc_2021.pdf) 
 
 4. Sheikh Salman Hassan, **Umer Majeed**, Choong Seon Hong, "On-Demand Unmanned Aerial Vehicle Deployment and Profit Maximization for Internet of Maritime Things Networks", 2021년 한국컴퓨터종합학술대회(KCC 2021), 2021.06.23. [Link Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582862) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/salman_kcc_2021.pdf) 
