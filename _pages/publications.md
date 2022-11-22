@@ -10,9 +10,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 International Journals
 ===========
-5. **Umer Majeed**, L. U. Khan, Abdullah Yousafzai, Zhu Han, Bang Ju Park and Choong Seon Hong, "ST-BFL: A Structured Transparency empowered cross-silo Federated Learning on the Blockchain framework," IEEE Access, Nov 2021. (DOI: 10.1109/ACCESS.2021.3128622) [Link Paper](https://ieeexplore.ieee.org/document/9617624/) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/STBFL.pdf)
+3. Abdullah Yousafzai, Latif U Khan, **Umer Majeed**, Owais Hakeem, Choong Seon Hong, "FedMarket: A Cryptocurrency Driven Marketplace for Mobile Federated Learning Services," IEEE Access, Aug 2022. (DOI: 10.1109/ACCESS.2021.3128622) [Link Paper](https://ieeexplore.ieee.org/document/9858143/) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/FedMarket.pdf)
 
-6. **Umer Majeed**, Latif U. Khan, Ibrar Yaqoob, SM Ahsan Kazmi, Khaled Salah, Choong Seon Hong, "Blockchain for IoT-based Smart Cities: Recent Advances, Requirements, and Future," Journal of Network and Computer Application, Vol. 181, pp.1-22, May 2021. (DOI: 10.1016/j.jnca.2021.103007) [Link Paper](https://www.sciencedirect.com/science/article/pii/S1084804521000345) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/umerjnca2021.pdf)
+2. **Umer Majeed**, L. U. Khan, Abdullah Yousafzai, Zhu Han, Bang Ju Park and Choong Seon Hong, "ST-BFL: A Structured Transparency empowered cross-silo Federated Learning on the Blockchain framework," IEEE Access, Nov 2021. (DOI: 10.1109/ACCESS.2021.3128622) [Link Paper](https://ieeexplore.ieee.org/document/9617624/) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/STBFL.pdf)
+
+1. **Umer Majeed**, Latif U. Khan, Ibrar Yaqoob, SM Ahsan Kazmi, Khaled Salah, Choong Seon Hong, "Blockchain for IoT-based Smart Cities: Recent Advances, Requirements, and Future," Journal of Network and Computer Application, Vol. 181, pp.1-22, May 2021. (DOI: 10.1016/j.jnca.2021.103007) [Link Paper](https://www.sciencedirect.com/science/article/pii/S1084804521000345) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/umerjnca2021.pdf)
 
 
 International Conferences
