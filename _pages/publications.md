@@ -31,7 +31,7 @@ International Conferences
 
 Domestic Journals (Korean)
 ===========
-4. **Umer Majeed**, Kitae Kim, Choong Seon Hong, "Mining Pool Selection Strategy in Blockchain Networks: A Probabilistic Approach)," KIISE Transactions on Computing Practices, Vol. 26, No. 6, pp. 280-285, June 2020. (DOI: 10.1109/ACCESS.2021.3128622) [Link Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09353156) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/umerktcp2020.pdf) 
+4. **Umer Majeed**, Kitae Kim, Choong Seon Hong, "Mining Pool Selection Strategy in Blockchain Networks: A Probabilistic Approach)," KIISE Transactions on Computing Practices, Vol. 26, No. 6, pp. 280-285, June 2020. (DOI: 10.5626/KTCP.2020.26.6.280) [Link Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09353156) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/umerktcp2020.pdf) 
 
 
 
