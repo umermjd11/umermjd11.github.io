@@ -10,6 +10,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 International Journals
 ===========
+
+4. **Umer Majeed**, L. U. Khan, Sheikh Salman Hassan, Zhu Han, and Choong Seon Hong, "SFL-Incentivizer: FL-NFT and FL-Tokens for Federated Learning Model Trading and Training," IEEE Access, Jan 2023. [Link Paper](https://ieeexplore.ieee.org/document/10012365) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/FLIncentivizer.pdf)
+
 3. Abdullah Yousafzai, Latif U Khan, **Umer Majeed**, Owais Hakeem, Choong Seon Hong, "FedMarket: A Cryptocurrency Driven Marketplace for Mobile Federated Learning Services," IEEE Access, Aug 2022. (DOI: 10.1109/ACCESS.2022.3199369) [Link Paper](https://ieeexplore.ieee.org/document/9858143/) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/FedMarket.pdf)
 
 2. **Umer Majeed**, L. U. Khan, Abdullah Yousafzai, Zhu Han, Bang Ju Park and Choong Seon Hong, "ST-BFL: A Structured Transparency empowered cross-silo Federated Learning on the Blockchain framework," IEEE Access, Nov 2021. (DOI: 10.1109/ACCESS.2021.3128622) [Link Paper](https://ieeexplore.ieee.org/document/9617624/) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/STBFL.pdf)
