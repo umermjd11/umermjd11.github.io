@@ -11,7 +11,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 International Journals
 ===========
 
-5. **Umer Majeed**, Sheikh Salman Hassan, Zhu Han, and Choong Seon Hong, "DAO-FL: Enabling Decentralized Input and Output Verification in Federated Learning with Decentralized Autonomous Organizations," TechRxiv. Preprint, Dec 2023. [Link Paper](https://doi.org/10.36227/techrxiv.24546502.v1) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/DAOFL-TechRxiv.pdf)
+5. **Umer Majeed**, Sheikh Salman Hassan, Zhu Han, and Choong Seon Hong, "DAO-FL: Enabling Decentralized Input and Output Verification in Federated Learning with Decentralized Autonomous Organizations," TechRxiv. Preprint, Dec 2023. [Link Paper](https://doi.org/10.36227/techrxiv.24546502.v2) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/DAOFL-TechRxiv.pdf)
 
 4. **Umer Majeed**, L. U. Khan, Sheikh Salman Hassan, Zhu Han, and Choong Seon Hong, "FL-Incentivizer: FL-NFT and FL-Tokens for Federated Learning Model Trading and Training," IEEE Access, Jan 2023. [Link Paper](https://ieeexplore.ieee.org/document/10012365) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/FLIncentivizer.pdf)
 

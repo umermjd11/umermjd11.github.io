@@ -1,59 +1,33 @@
 ---
 layout: archive
-title: "CV"
+title: "CV  and Resumes"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+This page offers:
+
+* A comprehensive Curriculum Vitae (CV) showcasing my key publications, MOOCs completed, projects, education, and professional experience.
+* A concise CV that summarizes my most significant publications, MOOCs, and projects.
+* Tailored resumes specifically crafted for roles such as Web3 Engineer, AI Engineer, and Data Scientist.
+
+Each document is meticulously prepared to emphasize my expertise and alignment with the requirements of these specialized roles.
+
+Detailed CV
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* [View My Detailed CV](https://github.com/umermjd11/Resumes-CV/blob/main/CV_detailed_UmerMajeed.pdf)
+
+Shortened CV
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* [View My Shortened CV](https://github.com/umermjd11/Resumes-CV/blob/main/CV_shorten_UmerMajeed.pdf)
+
+Tailored Resumes
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* **Data Scientist:** [View Resume](https://github.com/umermjd11/Resume-CV/blob/main/Data-Scientist/Resume_DataScientist_UmerMajeed.pdf)
+* **Web3 Engineer:** [View Resume](https://github.com/umermjd11/Resume-CV/blob/main/Web3-Engineer/Resume_Web3Engineer_UmerMajeed.pdf)
+* **AI Engineer:** [View Resume](https://github.com/umermjd11/Resume-CV/blob/main/AI-Engineer/Resume_AIEngineer_UmerMajeed.pdf)
