@@ -19,7 +19,8 @@ Each document is meticulously prepared to emphasize my expertise and alignment w
 
 Detailed CV
 ======
-* [View My Detailed CV](https://github.com/umermjd11/Resumes-CV/blob/main/CV_detailed_UmerMajeed.pdf)
+ - [View Detailed CV on GitHub](https://github.com/umermjd11/Resumes-CV/blob/main/CV_detailed_UmerMajeed.pdf)
+  - [View Detailed CV in PDF Viewer](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/umermjd11/Resumes-CV/main/CV_detailed_UmerMajeed.pdf)
 
 Shortened CV
 ======
