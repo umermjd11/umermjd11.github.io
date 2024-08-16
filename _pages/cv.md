@@ -24,7 +24,8 @@ Detailed CV
 
 Shortened CV
 ======
-* [View My Shortened CV](https://github.com/umermjd11/Resumes-CV/blob/main/CV_shorten_UmerMajeed.pdf)
+- [View CV on GitHub](https://github.com/umermjd11/Resumes-CV/blob/main/CV_UmerMajeed.pdf)
+- [Viiew CV in PDF Viewer](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/umermjd11/Resumes-CV/main/CV_UmerMajeed.pdf)
 
 Tailored Resumes
 ======
