@@ -40,6 +40,8 @@ Data Science
 <span class="w3-tag w3-green" style="margin-bottom:5px">Python</span>
 <span class="w3-tag w3-green" style="margin-bottom:5px">R</span>
 <span class="w3-tag w3-green" style="margin-bottom:5px">HAgrid</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Google Looker</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">IBM Congos</span>
 
 
 Artificial Intilligence
@@ -79,6 +81,15 @@ Programming
 <span class="w3-tag w3-green" style="margin-bottom:5px">Git</span>
 <span class="w3-tag w3-green" style="margin-bottom:5px">mocha</span>
 <span class="w3-tag w3-green" style="margin-bottom:5px">chai</span>
+
+<h2>Generative AI</h2>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Gemini AI</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">ChatGPT</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Claude</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Bing Copilot</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Meta AI</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Bing Image Creator</span>
+<span class="w3-tag w3-green" style="margin-bottom:5px">Leonardo AI</span>
 
 
 Other Skills
