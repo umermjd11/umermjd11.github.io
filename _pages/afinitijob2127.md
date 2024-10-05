@@ -409,5 +409,19 @@ This report presents an analysis of car sales and profits for each dealer at Swi
 - **2011 - 2015**  
   <span style="color:green; font-weight:bold;">BS</span> in Electrical (Telecommunication) <span style="color:green; font-weight:bold;">Engineering</span>  
   CGPA: 3.83/4.00  
-  National University of Sciences & Technology (NUST), Islamabad, Pakistan  
+  National University of Sciences & Technology (NUST), Islamabad, Pakistan 
+
+  ---
+
+# Experience
+
+### PHP Developer  
+**Artologics, Islamabad, Pakistan**  
+*2015 -- 2016*  
+- Developed robust back-end applications using Core PHP and CodeIgniter framework.  
+- Implemented jQuery and JavaScript to facilitate smooth communication between the user interface and server-side components via AJAX requests, enhancing the interactivity of web applications.  
+- Employed SQL queries to interface with MySQL databases, ensuring data integrity and reliability while developing robust solutions for efficient data management.
+
+**Technologies:** PHP / SQL / CodeIgniter / jQuery / AJAX / JavaScript / APIs
+ 
 
