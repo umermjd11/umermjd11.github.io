@@ -206,9 +206,13 @@ I am an <span style="color:blue; font-weight:bold;">ML engineer / Data Scientist
   Comprehensive introduction to programming and Python basics for automation tasks in IT roles, covering syntax, data types, loops, and advanced string manipulation with hands-on exercises.
 
 ### Fundamentals of Reinforcement Learning - Coursera - Completed with certificate
-- **[Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)** - - Completed - Dec 2020 - [![Certificate](https://img.icons8.com/ios-filled/16/000000/certificate.png)](https://www.coursera.org/account/accomplishments/verify/ZGPCDR8EJGTE)  
+- **[Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)** - Completed - Dec 2020 - [![Certificate](https://img.icons8.com/ios-filled/16/000000/certificate.png)](https://www.coursera.org/account/accomplishments/verify/ZGPCDR8EJGTE)  
   Learn key concepts like Markov Decision Processes (MDPs), value functions, dynamic programming, and exploration-exploitation trade-offs, applying these techniques to solve real-world decision-making problems in AI and industrial settings.
 
+### Generative AI and LLMs: Architecture and Data Preparation - Audit Completed with Labs
+- **[Generative AI and LLMs: Architecture and Data Preparation](https://www.coursera.org/learn/generative-ai-llm-architecture-data-preparation)** - from [Generative AI Engineering with LLMs Specialization](https://www.coursera.org/specializations/generative-ai-engineering-with-llms) - Oct, 2024
+
+  Learn about generative AI architectures like RNNs, Transformers, VAEs, GANs, and Diffusion Models, and explore LLMs such as GPT, BERT, BART, and T5 for language processing. Implement tokenization with NLP libraries (NLTK, spaCy, BertTokenizer) and create NLP data loaders using PyTorch.
 
 ### Datacamp  
 [https://www.datacamp.com/portfolio/umermajeed](https://www.datacamp.com/portfolio/umermajeed)
@@ -235,10 +239,6 @@ I am an <span style="color:blue; font-weight:bold;">ML engineer / Data Scientist
 - **[IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project)** - from [IBM Data Analyst Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst) - In progress
 
   Apply data analysis techniques such as data collection, wrangling, visualization, and dashboard creation using Python, SQL, Cognos, and various libraries to solve real-world business challenges.
-
-- **[Generative AI and LLMs: Architecture and Data Preparation](https://www.coursera.org/learn/generative-ai-llm-architecture-data-preparation)** - from [Generative AI Engineering with LLMs Specialization](https://www.coursera.org/specializations/generative-ai-engineering-with-llms) - In progress  
-
-  Learn about generative AI architectures like RNNs, Transformers, VAEs, GANs, and Diffusion Models, and explore LLMs such as GPT, BERT, BART, and T5 for language processing. Implement tokenization with NLP libraries (NLTK, spaCy, BertTokenizer) and create NLP data loaders using PyTorch.
 
 ---
 
