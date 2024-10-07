@@ -191,6 +191,10 @@ I am an <span style="color:blue; font-weight:bold;">ML engineer / Data Scientist
 - **[Generative AI: Enhance your Data Analytics Career](https://www.coursera.org/learn/generative-ai-enhance-your-data-analytics-career) - Sep, 2024**  
   Describe how to use Generative AI tools in data analytics, implement data analytic processes, evaluate case studies, and analyze ethical considerations.
 
+- **[Data Analyst Career Guide and Interview Preparation](https://www.coursera.org/learn/career-guide-and-interview-prep-for-data-analyst)- Oct, 2024** 
+
+  Prepare for data analyst job applications, build portfolios, resumes, and cover letters, practice interviews, coding challenges, and hands-on labs (SQL and Python).  
+
 
 
 ### AI For Everyone - Coursera - Completed with certificate
@@ -231,10 +235,6 @@ I am an <span style="color:blue; font-weight:bold;">ML engineer / Data Scientist
 - **[IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project)** - from [IBM Data Analyst Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst) - In progress
 
   Apply data analysis techniques such as data collection, wrangling, visualization, and dashboard creation using Python, SQL, Cognos, and various libraries to solve real-world business challenges.
-
-- **[Data Analyst Career Guide and Interview Preparation](https://www.coursera.org/learn/career-guide-and-interview-prep-for-data-analyst)** - from [IBM Data Analyst Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst) - In progress
-
-  Prepare for data analyst job applications, build portfolios, resumes, and cover letters, practice interviews, coding challenges, and hands-on labs (SQL and Python).
 
 - **[Generative AI and LLMs: Architecture and Data Preparation](https://www.coursera.org/learn/generative-ai-llm-architecture-data-preparation)** - from [Generative AI Engineering with LLMs Specialization](https://www.coursera.org/specializations/generative-ai-engineering-with-llms) - In progress  
 
