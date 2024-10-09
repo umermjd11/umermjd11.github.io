@@ -6,13 +6,130 @@ author_profile: true
 ---
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-Data Science
-===========
-1. Pakistan-PHD country directory (PCD), A list of all the PHDs Pakistani universities has produced [![dataset site](http://www.endtoend.ai/assets/blog/tutorial/kaggle-dataset-ubuntu/kaggle.png){: style="width: 80px; height 50px"}](https://www.kaggle.com/umermjd11/pakistanphd-country-directory-pcd)
-2. Ph.Ds. produced by Pakistanis universities 2010-14, Ph.Ds. produced by Pakistanis public and private sector universities 2010-2014 [![dataset site](http://www.endtoend.ai/assets/blog/tutorial/kaggle-dataset-ubuntu/kaggle.png){: style="width: 80px; height 50px"}](https://www.kaggle.com/umermjd11/phds-produced-by-pakistanis-universities-201014)
-3. Districts_of_Pakistan [![dataset site](http://www.endtoend.ai/assets/blog/tutorial/kaggle-dataset-ubuntu/kaggle.png){: style="width: 80px; height 50px"}](https://www.kaggle.com/umermjd11/districts-of-pakistan)
-4. Kaggle Notebook "Ecommerce-best selling category" [![notebook link](https://banner2.cleanpng.com/20180704/yco/kisspng-kaggle-predictive-modelling-data-science-business-5b3c8fc356f806.4702207815306956193562.jpg){: style="width: 80px; height 50px"}](https://www.kaggle.com/umermjd11/ecommerce-best-selling-category/) on "Pakistan's Largest E-Commerce Dataset" [![dataset site](http://www.endtoend.ai/assets/blog/tutorial/kaggle-dataset-ubuntu/kaggle.png){: style="width: 80px; height 50px"}](https://www.kaggle.com/zusmani/pakistans-largest-ecommerce-dataset)
-5. Kaggle Notebook "EDA-PCD" [![notebook link](https://banner2.cleanpng.com/20180704/yco/kisspng-kaggle-predictive-modelling-data-science-business-5b3c8fc356f806.4702207815306956193562.jpg){: style="width: 80px; height 50px"}](https://www.kaggle.com/umermjd11/eda-pcd) on "Pakistan-PHD country directory (PCD)" [![dataset site](http://www.endtoend.ai/assets/blog/tutorial/kaggle-dataset-ubuntu/kaggle.png){: style="width: 80px; height 50px"}](https://www.kaggle.com/umermjd11/pakistanphd-country-directory-pcd)
+# Data Science
+
+## My Datasets
+
+
+1. Pakistan-PHD country directory (PCD)  
+   <span class="w3-tag w3-black">[Kaggle-Dataset](https://www.kaggle.com/umermjd11/pakistanphd-country-directory-pcd)</span>
+
+   A list of all the PhDs Pakistani universities have produced.
+
+2. Ph.Ds. produced by Pakistanis universities 2010-14  
+   <span class="w3-tag w3-black">[Kaggle-Dataset](https://www.kaggle.com/umermjd11/phds-produced-by-pakistanis-universities-201014)</span>
+
+   Ph.Ds. produced by Pakistan's public and private sector universities from 2010 to 2014.
+
+3. Districts_of_Pakistan  
+   <span class="w3-tag w3-black">[Kaggle-Dataset](https://www.kaggle.com/umermjd11/districts-of-pakistan)</span>
+
+   A dataset detailing the districts of Pakistan.
+
+## ML
+
+### SpaceX Falcon 9 ML Project
+ <span class="w3-tag w3-black">[Kaggle-Notebook](https://www.kaggle.com/code/umermjd11/spacex-falcon9)</span>
+ <span class="w3-tag w3-black">[Dash-App](https://umermjd11-spacex-falcon9-dash.hf.space/)</span>
+
+This notebook details an ML project focusing on **SpaceX Falcon 9 launches** that encompasses:
+
+- **Data Collection** via API and web scraping
+- **Data Wrangling** and **Exploratory Data Analysis (EDA)**
+- **Visualization** and **Interactive Dashboards** using Plotly Dash and Folium
+- **Predictive Analysis** through classification techniques
+
+## EDA
+
+### Tesla and GameStop Stock/Revenue Data and Dashboard
+ <span class="w3-tag w3-black">[Kaggle-Notebook](https://www.kaggle.com/code/umermjd11/stock-revenue-data-and-dashboard)</span>
+
+This notebook details an exploratory data analysis on historical stock data focusing on **Tesla and GameStop Stock/Revenue Data** that encompasses:
+
+
+- **Fetch Data**: Utilizing the `yfinance` library to extract stock data for your company of interest
+- **Analyze**: Explore key metrics, visualize trends, and draw insights from the data.
+- **Report Findings**:  Summarize the analysis and trends in alignment with real-world market behavior and financial performance.
+
+
+### Socioeconomic Indicators in Chicago (2008-2012)
+<span class="w3-tag w3-black">[Kaggle Notebook](https://www.kaggle.com/code/umermjd11/eda-chicago-socioecnomics-1)</span>
+
+This notebook presents a comprehensive exploratory data analysis (EDA) of **socioeconomic indicators in Chicago from 2008 to 2012**. Through a combination of visualizations and statistical summaries, this notebook aims to uncover trends and insights related to Chicago's socioeconomic landscape during the specified period. The analysis includes:
+
+- **Pairplots**: Visualizing relationships between multiple variables.
+- **Heatmaps**: Illustrating data correlation and distributions.
+- **Correlation Matrix**: Examining relationships between different socioeconomic features.
+- **Descriptive Statistics**: Summarizing key metrics of the dataset.
+- **Detailed Analysis**: In-depth exploration of the correlation matrix for various features.
+
+
+### Ecommerce Best Selling Category Analysis 
+<span class="w3-tag w3-black">[Kaggle-Notebook](https://www.kaggle.com/umermjd11/ecommerce-best-selling-category)</span> <span class="w3-tag w3-black">[Kaggle-Dataset](https://www.kaggle.com/zusmani/pakistans-largest-ecommerce-dataset)</span>
+
+This notebook provides a detailed analysis of **Pakistan's Largest E-Commerce Dataset** that encompasses:
+
+* **Data Loading:** Importing and cleaning the dataset.
+* **Data Analysis:** Analyzing order quantities and visualizing trends by category and year.
+* **Key Insights:** Identifying best-selling categories and understanding data distribution.
+
+
+### Pakistan-PHD Country Directory (PCD) - EDA  
+<span class="w3-tag w3-black">[Kaggle-Notebook](https://www.kaggle.com/umermjd11/eda-pcd)</span>  <span class="w3-tag w3-black">[Kaggle-Dataset](https://www.kaggle.com/umermjd11/pakistanphd-country-directory-pcd)</span>
+
+This notebook focuses on **exploratory data analysis (EDA) of the Pakistan-PHD country directory (PCD)**, offering:
+
+* **PhD Production:** Overview of PhD production trends in Pakistan.
+* **Subject Distribution:** Analysis of popular PhD subjects.
+* **University Performance:** Comparison of university performance based on PhD output.
+
+
+
+## Google Looker
+
+### Sales and Service Analysis Report for SwiftAuto Traders - Looker Dashboard Project
+<span class="w3-tag w3-black">[Looker Report](https://lookerstudio.google.com/reporting/c2f1b72f-b14a-431f-a57e-07f6fc78970d)</span>
+
+This Looker report captures the detailed analysis and visualizations for both the Sales and Service dashboards, allowing for a comprehensive view of the performance metrics at SwiftAuto Traders.
+
+This report presents an analysis of car sales and profits for each dealer at SwiftAuto Traders. The analysis aims to provide insights into key performance indicators (KPIs) that can assist in making informed business decisions. The report is divided into two main sections: **Sales** and **Service**.
+
+#### Sales Dashboard
+
+##### KPI Metrics
+- **Total Profit:** $X.XX million
+- **Total Quantity Sold:** Y units
+- **Average Quantity Sold:** Z units
+
+##### Visualizations
+1. Quantity Sold by Model  
+2. Profit by Dealer ID
+
+#### Service Dashboard
+
+##### Visualizations
+1. Number of Recalls per Model
+2. Customer Sentiment Analysis
+3. Monthly Car Sales vs. Profit
+4. Recalls by Model and Affected System
+
+
+### Products and Sales Analysis Report for Customer Loyality Program - Looker Dashboard Project
+<span class="w3-tag w3-black">[Looker Report](https://lookerstudio.google.com/reporting/67fb7926-d78a-40d4-9d30-ee42b3945d6e)</span>
+
+#### KPI Metrics
+- **Total Revenue:** $X.XX million
+- **Total Quantity Sold:** Y units
+
+#### Visualizations
+1. Line Chart - Quantity Sold of d/f Product lines by Year  
+1. Bar Chart - Total Quantity Sold of to Male or female customers - Gender Slicer 
+1. Line and bar chart for average unit sale price and total revenue with product line slicer.
+1. Quantity Sold of d/f product lines on world map
+1. heat map of quantity sold on world map.
+1. treemap of quantity sold and revenue by country, state, and city.
+1. Word cloud of revenue by state or province.
+1. Bubble chart of revenue by loyality status and product line.
 
 Blockchain and Smart Contracts
 ===========
