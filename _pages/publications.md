@@ -6,7 +6,8 @@ author_profile: true
 ---
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=LrsLEJgAAAAJ&hl=en).
+You can also find my articles on my [![Google Scholar profile](https://img.shields.io/badge/-Google%20Scholar--profile-black.svg?style=for-the-badge&logo=google-scholar&colorB=555)](https://scholar.google.com/citations?user=LrsLEJgAAAAJ&hl=en).
+
 
 
 International Journals
@@ -26,7 +27,8 @@ International Journals
 2. **Umer Majeed**, L. U. Khan, Abdullah Yousafzai, Zhu Han, Bang Ju Park and Choong Seon Hong, "ST-BFL: A Structured Transparency empowered cross-silo Federated Learning on the Blockchain framework," IEEE Access, Nov 2021. (DOI: 10.1109/ACCESS.2021.3128622) [Link Paper](https://ieeexplore.ieee.org/document/9617624/) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/STBFL.pdf) ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=fff) ![Truffle](https://img.shields.io/badge/Truffle-3670A0?style=for-the-badge&logo=truffle&logoColor=ffdd54)
 ![Ganache](https://img.shields.io/badge/Ganache-3670A0?style=for-the-badge&logo=ganache&logoColor=ffdd54)
 
-1. **Umer Majeed**, Latif U. Khan, Ibrar Yaqoob, SM Ahsan Kazmi, Khaled Salah, Choong Seon Hong, "Blockchain for IoT-based Smart Cities: Recent Advances, Requirements, and Future," Journal of Network and Computer Application, Vol. 181, pp.1-22, May 2021. (DOI: 10.1016/j.jnca.2021.103007) [Link Paper](https://www.sciencedirect.com/science/article/pii/S1084804521000345) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/umerjnca2021.pdf)
+1. **Umer Majeed**, Latif U. Khan, Ibrar Yaqoob, SM Ahsan Kazmi, Khaled Salah, Choong Seon Hong, "Blockchain for IoT-based Smart Cities: Recent Advances, Requirements, and Future," Journal of Network and Computer Application, Vol. 181, pp.1-22, May 2021. (DOI: 10.1016/j.jnca.2021.103007) [Link Paper](https://www.sciencedirect.com/science/article/pii/S1084804521000345) [![pdf](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png){: style="width: 20px; height 30px"}]({{ site.url }}/files/umerjnca2021.pdf) ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A) ![Ethereum](https://img.shields.io/badge/Ethereum-000?style=for-the-badge&logo=ethereum&logoColor=fff)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=fff) ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![IOTA](https://img.shields.io/badge/IOTA-000?style=for-the-badge&logo=iota&logoColor=FFF)
 
 
 International Conferences
