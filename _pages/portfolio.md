@@ -12,25 +12,44 @@ author_profile: true
 
 
 1. Pakistan-PHD country directory (PCD)  
-   <span class="w3-tag w3-black">[Kaggle-Dataset](https://www.kaggle.com/umermjd11/pakistanphd-country-directory-pcd)</span>
+   [![Kaggle Dataset](https://img.shields.io/badge/Kaggle--Dataset-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/umermjd11/pakistanphd-country-directory-pcd)
 
    A list of all the PhDs Pakistani universities have produced.
 
 2. Ph.Ds. produced by Pakistanis universities 2010-14  
-   <span class="w3-tag w3-black">[Kaggle-Dataset](https://www.kaggle.com/umermjd11/phds-produced-by-pakistanis-universities-201014)</span>
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle--Dataset-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/umermjd11/phds-produced-by-pakistanis-universities-201014)
 
    Ph.Ds. produced by Pakistan's public and private sector universities from 2010 to 2014.
 
 3. Districts_of_Pakistan  
-   <span class="w3-tag w3-black">[Kaggle-Dataset](https://www.kaggle.com/umermjd11/districts-of-pakistan)</span>
+    [![Kaggle Dataset](https://img.shields.io/badge/Kaggle--Dataset-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/umermjd11/districts-of-pakistan)
 
    A dataset detailing the districts of Pakistan.
 
-## ML
+## Deep Learning
+
+### Simple CNN models - Happyface and Digit Signs
+
+[![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4W1A2) 
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+
+- This repository highlights projects showcasing deep learning applications using TensorFlow and Keras.
+- Focuses on convolutional neural networks (ConvNets) for image classification tasks.
+- Demonstrates practical use of both the **Sequential** and **Functional** APIs for model development.
+
+
+
+## Machine Learning
 
 ### SpaceX Falcon 9 ML Project
- <span class="w3-tag w3-black">[Kaggle-Notebook](https://www.kaggle.com/code/umermjd11/spacex-falcon9)</span>
- <span class="w3-tag w3-black">[Dash-App](https://umermjd11-spacex-falcon9-dash.hf.space/)</span>
+
+ [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/spacex-falcon9)
+ [![Dash-App](https://img.shields.io/badge/Dash--App-%23575757?logo=plotly&style=for-the-badge)](https://umermjd11-spacex-falcon9-dash.hf.space/)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 This notebook details an ML project focusing on **SpaceX Falcon 9 launches** that encompasses:
 
@@ -42,7 +61,7 @@ This notebook details an ML project focusing on **SpaceX Falcon 9 launches** tha
 ## EDA
 
 ### Tesla and GameStop Stock/Revenue Data and Dashboard
- <span class="w3-tag w3-black">[Kaggle-Notebook](https://www.kaggle.com/code/umermjd11/stock-revenue-data-and-dashboard)</span>
+  [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/stock-revenue-data-and-dashboard)
 
 This notebook details an exploratory data analysis on historical stock data focusing on **Tesla and GameStop Stock/Revenue Data** that encompasses:
 
@@ -53,7 +72,7 @@ This notebook details an exploratory data analysis on historical stock data focu
 
 
 ### Socioeconomic Indicators in Chicago (2008-2012)
-<span class="w3-tag w3-black">[Kaggle Notebook](https://www.kaggle.com/code/umermjd11/eda-chicago-socioecnomics-1)</span>
+ [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/eda-chicago-socioecnomics-1)
 
 This notebook presents a comprehensive exploratory data analysis (EDA) of **socioeconomic indicators in Chicago from 2008 to 2012**. Through a combination of visualizations and statistical summaries, this notebook aims to uncover trends and insights related to Chicago's socioeconomic landscape during the specified period. The analysis includes:
 
@@ -65,7 +84,7 @@ This notebook presents a comprehensive exploratory data analysis (EDA) of **soci
 
 
 ### Ecommerce Best Selling Category Analysis 
-<span class="w3-tag w3-black">[Kaggle-Notebook](https://www.kaggle.com/umermjd11/ecommerce-best-selling-category)</span> <span class="w3-tag w3-black">[Kaggle-Dataset](https://www.kaggle.com/zusmani/pakistans-largest-ecommerce-dataset)</span>
+ [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/umermjd11/ecommerce-best-selling-category) [![Kaggle Dataset](https://img.shields.io/badge/Kaggle--Dataset-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/zusmani/pakistans-largest-ecommerce-dataset)
 
 This notebook provides a detailed analysis of **Pakistan's Largest E-Commerce Dataset** that encompasses:
 
@@ -75,7 +94,7 @@ This notebook provides a detailed analysis of **Pakistan's Largest E-Commerce Da
 
 
 ### Pakistan-PHD Country Directory (PCD) - EDA  
-<span class="w3-tag w3-black">[Kaggle-Notebook](https://www.kaggle.com/umermjd11/eda-pcd)</span>  <span class="w3-tag w3-black">[Kaggle-Dataset](https://www.kaggle.com/umermjd11/pakistanphd-country-directory-pcd)</span>
+ [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/umermjd11/eda-pcd) [![Kaggle Dataset](https://img.shields.io/badge/Kaggle--Dataset-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/umermjd11/pakistanphd-country-directory-pcd)
 
 This notebook focuses on **exploratory data analysis (EDA) of the Pakistan-PHD country directory (PCD)**, offering:
 
@@ -88,7 +107,8 @@ This notebook focuses on **exploratory data analysis (EDA) of the Pakistan-PHD c
 ## Google Looker
 
 ### Sales and Service Analysis Report for SwiftAuto Traders - Looker Dashboard Project
-<span class="w3-tag w3-black">[Looker Report](https://lookerstudio.google.com/reporting/c2f1b72f-b14a-431f-a57e-07f6fc78970d)</span>
+[![Looker Report](https://img.shields.io/badge/Looker--Report-blue?logo=looker&style=for-the-badge&logoColor=white)](https://lookerstudio.google.com/reporting/c2f1b72f-b14a-431f-a57e-07f6fc78970d)
+
 
 This Looker report captures the detailed analysis and visualizations for both the Sales and Service dashboards, allowing for a comprehensive view of the performance metrics at SwiftAuto Traders.
 
@@ -115,7 +135,7 @@ This report presents an analysis of car sales and profits for each dealer at Swi
 
 
 ### Products and Sales Analysis Report for Customer Loyality Program - Looker Dashboard Project
-<span class="w3-tag w3-black">[Looker Report](https://lookerstudio.google.com/reporting/67fb7926-d78a-40d4-9d30-ee42b3945d6e)</span>
+[![Looker Report](https://img.shields.io/badge/Looker--Report-blue?logo=looker&style=for-the-badge&logoColor=white)](https://lookerstudio.google.com/reporting/67fb7926-d78a-40d4-9d30-ee42b3945d6e)
 
 #### KPI Metrics
 - **Total Revenue:** $X.XX million
@@ -133,12 +153,72 @@ This report presents an analysis of car sales and profits for each dealer at Swi
 
 Blockchain and Smart Contracts
 ===========
-1. [FL-Incentivizer](https://ieeexplore.ieee.org/document/10012365) - Created a ERC20 and ERC721 based tokens to incentivize local models training and global model trading respectively <span class="w3-tag w3-black">[GitHub](https://github.com/umermajeedkhu/FL-Incentivizer)</span> <span class="w3-tag w3-brown">[FLNFTC: Sepolia Ether Scan](https://sepolia.etherscan.io/address/0x51676b3077807AB483e276E5d31AaB4eC00db067)</span><span class="w3-tag w3-brown">[FLTPC: Sepolia Ether Scan](https://sepolia.etherscan.io/address/0x0Ec67d3fBa044F609cb34E84A46f8d5BD21D6a69)</span><span class="w3-tag w3-brown">[FLTC: Sepolia Ether Scan](https://sepolia.etherscan.io/address/0xd6846E68694A029E4158a21CB2158957482D5e97)</span><span class="w3-tag w3-blue">ERC20</span><span class="w3-tag w3-blue">ERC721</span><span class="w3-tag w3-blue">hardhat</span><span class="w3-tag w3-blue">ethers.js</span>
-1. [Whitelist-Dapp](https://dappwhitelist-umermjd11.vercel.app/). This DApp white list upto 10 addresses for the presale of NFT. <span class="w3-tag w3-black">[GitHub-hardhat](https://github.com/umermjd11/lw3sophomoreWLC)</span><span class="w3-tag w3-black">[GitHub-DApp](https://github.com/umermjd11/Dappwhitelist)</span><span class="w3-tag w3-brown">[Sepolia Ether Scan](https://sepolia.etherscan.io/address/0xD98eA6f55AE77bdE11556A9BE77647C5DCA16200)</span><span class="w3-tag w3-indigo">[Vercel](https://dappwhitelist-umermjd11.vercel.app/)</span><span class="w3-tag w3-blue">react.js</span> <span class="w3-tag w3-blue">next.js</span> <span class="w3-tag w3-blue">ether.js</span> <span class="w3-tag w3-blue">Web3Modal</span>
-2. [NFT Collection](https://nftcollectionlw3io.vercel.app/). This DApp mints upto 20 NFTs. This Dapp only allows whitelisted address in above Dapp to mint NFT in presale period. After presale ends, any one can mint publicly. <span class="w3-tag w3-black">[GitHub-hardhat](https://github.com/umermjd11/LW3SnftCollectionHardhat)</span><span class="w3-tag w3-black">[GitHub-DApp](https://github.com/umermjd11/Dappwhitelist)</span><span class="w3-tag w3-brown">[Sepolia Ether Scan](https://sepolia.etherscan.io/address/0xbe84C7F4Ef89703A8E6406a10b33fFd614CF97f2)</span><span class="w3-tag w3-indigo">[Vercel](https://nftcollectionlw3io.vercel.app/)</span><span class="w3-tag w3-blue">react.js</span> <span class="w3-tag w3-blue">next.js</span> <span class="w3-tag w3-blue">ether.js</span> <span class="w3-tag w3-blue">Web3Modal</span>
-1. Basic DApp - A basic DApp to set a person mood in a smart contract <span class="w3-tag w3-black">[GitHub](https://github.com/umermjd11/learnweb3freshDapp)</span> <span class="w3-tag w3-indigo">[Vercel](https://learnweb3fresh-dapp.vercel.app/)</span><span class="w3-tag w3-brown">[Sepolia Ether Scan](https://sepolia.etherscan.io/address/0x45a3093ab4b1c5621b62000008d1ed5065711872)</span><span class="w3-tag w3-blue">ethers.js</span>
-2. ERC20 based Cryptocurrency - Creating a Fungible Token with ERC-20 Standard as custom Cryptocurrency <span class="w3-tag w3-black">[GitHub](https://github.com/umermjd11/learnweb3freshERC20)</span> <span class="w3-tag w3-brown">[Sepolia Ether Scan](https://sepolia.etherscan.io/address/0x07C0a3c4F471F179523CDe40C880A703Ce5e8793)</span><span class="w3-tag w3-blue">ERC20</span><span class="w3-tag w3-blue">Remix IDE</span><span class="w3-tag w3-blue">MetaMask</span>
-3. Basic NFT Contract - building a basic NFT (Non-Fungible Token) contract on the Ethereum network using Hardhat and OpenZeppelin Contracts <span class="w3-tag w3-black">[GitHub](https://github.com/umermjd11/learnweb3freshNFTtutorial)</span> <span class="w3-tag w3-brown">[Sepolia Ether Scan](https://sepolia.etherscan.io/address/0x94427d3183A522Ee6989F0a2b6314e186d7Ce90F)</span> <span class="w3-tag w3-blue">ERC721</span> <span class="w3-tag w3-blue">hardhat</span> <span class="w3-tag w3-blue">ERC721</span>
 
+### FL-Incentivizer
+   [![FL-Incentivizer](https://img.shields.io/badge/IEEE--link-007ACC?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10012365) [![Smart Contract Code](https://img.shields.io/badge/Smart%20Contracts--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermajeedkhu/FL-Incentivizer)
+   [![FLNFTC: Sepolia Ether Scan](https://img.shields.io/badge/FLNFTC-Sepolia%20EtherScan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x51676b3077807AB483e276E5d31AaB4eC00db067)
+   [![FLTPC: Sepolia Ether Scan](https://img.shields.io/badge/FLTPC-Sepolia%20EtherScan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x0Ec67d3fBa044F609cb34E84A46f8d5BD21D6a69)
+   [![FLTC: Sepolia Ether Scan](https://img.shields.io/badge/FLTC-Sepolia%20EtherScan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0xd6846E68694A029E4158a21CB2158957482D5e97)
+
+   ![ERC20](https://img.shields.io/badge/ERC20-0033CC?style=for-the-badge&logo=ethereum&logoColor=white)
+   ![ERC721](https://img.shields.io/badge/ERC721-0033CC?style=for-the-badge&logo=ethereum&logoColor=white)
+   ![Hardhat](https://img.shields.io/badge/Hardhat-FF9E0F?style=for-the-badge&logo=hardhat&logoColor=black)
+   ![ethers.js](https://img.shields.io/badge/ethers.js-764ABC?style=for-the-badge&logo=javascript&logoColor=white)
+   - Created ERC20 and ERC721 based tokens to incentivize local models training and global model trading respectively.
+
+### Whitelist-Dapp
+   [![Vercel-Dapp](https://img.shields.io/badge/Vercel--DApp-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dappwhitelist-umermjd11.vercel.app/) 
+   [![hardhat Code](https://img.shields.io/badge/hardhat--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/lw3sophomoreWLC) 
+   [![DApp Code](https://img.shields.io/badge/DApp--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/Dappwhitelist) 
+   [![Sepolia Ether Scan](https://img.shields.io/badge/Whitelist-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0xD98eA6f55AE77bdE11556A9BE77647C5DCA16200) 
+   
+
+   ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+   ![ethers.js](https://img.shields.io/badge/ethers.js-764ABC?style=for-the-badge&logo=javascript&logoColor=white) 
+   ![Web3Modal](https://img.shields.io/badge/Web3Modal-000000?style=for-the-badge&logo=web3&logoColor=white)
+
+   - This DApp whitelists up to 10 addresses for the presale of NFTs.
+
+### NFT Collection
+
+[![Vercel-Dapp](https://img.shields.io/badge/Vercel--DApp-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nftcollectionlw3io.vercel.app/)   [![hardhat Code](https://img.shields.io/badge/hardhat--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/LW3SnftCollectionHardhat) 
+[![DApp Code](https://img.shields.io/badge/DApp--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/NFTcollectionlw3io) 
+[![Sepolia Ether Scan](https://img.shields.io/badge/CryptoDevs-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0xbe84C7F4Ef89703A8E6406a10b33fFd614CF97f2) 
+ 
+
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+![ethers.js](https://img.shields.io/badge/ethers.js-764ABC?style=for-the-badge&logo=javascript&logoColor=white) 
+![Web3Modal](https://img.shields.io/badge/Web3Modal-000000?style=for-the-badge&logo=web3&logoColor=white)
+
+- This DApp mints up to 20 NFTs. It allows only whitelisted addresses from the Whitelist-DApp to mint NFTs during the presale period. After the presale ends, anyone can mint publicly.
+
+
+### Basic DApp
+
+[![Vercel-DApp](https://img.shields.io/badge/Vercel--DApp-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://learnweb3fresh-dapp.vercel.app/) [![DApp Code](https://img.shields.io/badge/DApp--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/learnweb3freshDapp)  [![Sepolia Ether Scan](https://img.shields.io/badge/MoodDiary-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x45a3093ab4b1c5621b62000008d1ed5065711872)  
+
+![ethers.js](https://img.shields.io/badge/ethers.js-764ABC?style=for-the-badge&logo=javascript&logoColor=white)
+
+- This DApp allows users to set their mood in a smart contract.
+
+
+### ERC20 Based Cryptocurrency
+
+[![Smart Contract Code](https://img.shields.io/badge/Smart%20Contract--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/learnweb3freshERC20)  [![Sepolia Ether Scan](https://img.shields.io/badge/LW3Token-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x07C0a3c4F471F179523CDe40C880A703Ce5e8793)  
+
+![ERC20](https://img.shields.io/badge/ERC20-000000?style=for-the-badge&logo=ethereum&logoColor=white) ![Remix IDE](https://img.shields.io/badge/Remix%20IDE-000000?style=for-the-badge&logo=javascript&logoColor=white)  ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+
+- This project involves creating a fungible token following the ERC-20 standard as a custom cryptocurrency.
+
+
+### Basic NFT Contract
+
+[![Smart Contract Code](https://img.shields.io/badge/Smart%20Contract--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/learnweb3freshNFTtutorial) [![Sepolia Ether Scan](https://img.shields.io/badge/NFTee-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x94427d3183A522Ee6989F0a2b6314e186d7Ce90F)  
+
+![ERC721](https://img.shields.io/badge/ERC721-000000?style=for-the-badge&logo=ethereum&logoColor=white) ![hardhat](https://img.shields.io/badge/hardhat-000000?style=for-the-badge&logo=hardhat&logoColor=white)
+
+- This project focuses on building a basic NFT (Non-Fungible Token) contract on the Ethereum network using Hardhat and OpenZeppelin Contracts.
 
 
