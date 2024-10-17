@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> <style> img {margin-bottom: 0.5%} p.tech{margin-top: -1.5%; margin-bottom: -1.5%}</style>
 
 # GitHub Accounts
 
@@ -36,11 +36,8 @@ author_profile: true
 
 ### Simple CNN models - Happyface and Digit Signs
 
-[![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4W1A2) 
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+[![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4W1A2) <br> 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
 - This repository highlights projects showcasing deep learning applications using TensorFlow and Keras.
 - Focuses on convolutional neural networks (ConvNets) for image classification tasks.
@@ -52,10 +49,8 @@ author_profile: true
 
 ### SpaceX Falcon 9 ML Project
 
- [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/spacex-falcon9)
- [![Dash-App](https://img.shields.io/badge/Dash--App-%23575757?logo=plotly&style=for-the-badge)](https://umermjd11-spacex-falcon9-dash.hf.space/)
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+ [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/spacex-falcon9)[![Dash-App](https://img.shields.io/badge/Dash--App-%23575757?logo=plotly&style=for-the-badge)](https://umermjd11-spacex-falcon9-dash.hf.space/) <br>
+ ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 This notebook details an ML project focusing on **SpaceX Falcon 9 launches** that encompasses:
 
@@ -164,8 +159,7 @@ Blockchain and Smart Contracts
    [![FL-Incentivizer](https://img.shields.io/badge/IEEE--link-007ACC?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10012365) [![Smart Contract Code](https://img.shields.io/badge/Smart%20Contracts--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermajeedkhu/FL-Incentivizer)
    [![FLNFTC: Sepolia Ether Scan](https://img.shields.io/badge/FLNFTC-Sepolia%20EtherScan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x51676b3077807AB483e276E5d31AaB4eC00db067)
    [![FLTPC: Sepolia Ether Scan](https://img.shields.io/badge/FLTPC-Sepolia%20EtherScan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x0Ec67d3fBa044F609cb34E84A46f8d5BD21D6a69)
-   [![FLTC: Sepolia Ether Scan](https://img.shields.io/badge/FLTC-Sepolia%20EtherScan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0xd6846E68694A029E4158a21CB2158957482D5e97)
-
+   [![FLTC: Sepolia Ether Scan](https://img.shields.io/badge/FLTC-Sepolia%20EtherScan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0xd6846E68694A029E4158a21CB2158957482D5e97) <br>
    ![ERC20](https://img.shields.io/badge/ERC20-0033CC?style=for-the-badge&logo=ethereum&logoColor=white)
    ![ERC721](https://img.shields.io/badge/ERC721-0033CC?style=for-the-badge&logo=ethereum&logoColor=white)
    ![Hardhat](https://img.shields.io/badge/Hardhat-FF9E0F?style=for-the-badge&logo=hardhat&logoColor=black)
@@ -176,9 +170,7 @@ Blockchain and Smart Contracts
    [![Vercel-Dapp](https://img.shields.io/badge/Vercel--DApp-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dappwhitelist-umermjd11.vercel.app/) 
    [![hardhat Code](https://img.shields.io/badge/hardhat--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/lw3sophomoreWLC) 
    [![DApp Code](https://img.shields.io/badge/DApp--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/Dappwhitelist) 
-   [![Sepolia Ether Scan](https://img.shields.io/badge/Whitelist-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0xD98eA6f55AE77bdE11556A9BE77647C5DCA16200) 
-   
-
+   [![Sepolia Ether Scan](https://img.shields.io/badge/Whitelist-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0xD98eA6f55AE77bdE11556A9BE77647C5DCA16200) <br>
    ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
    ![ethers.js](https://img.shields.io/badge/ethers.js-764ABC?style=for-the-badge&logo=javascript&logoColor=white) 
@@ -190,9 +182,7 @@ Blockchain and Smart Contracts
 
 [![Vercel-Dapp](https://img.shields.io/badge/Vercel--DApp-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nftcollectionlw3io.vercel.app/)   [![hardhat Code](https://img.shields.io/badge/hardhat--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/LW3SnftCollectionHardhat) 
 [![DApp Code](https://img.shields.io/badge/DApp--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/NFTcollectionlw3io) 
-[![Sepolia Ether Scan](https://img.shields.io/badge/CryptoDevs-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0xbe84C7F4Ef89703A8E6406a10b33fFd614CF97f2) 
- 
-
+[![Sepolia Ether Scan](https://img.shields.io/badge/CryptoDevs-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0xbe84C7F4Ef89703A8E6406a10b33fFd614CF97f2) <br>
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![ethers.js](https://img.shields.io/badge/ethers.js-764ABC?style=for-the-badge&logo=javascript&logoColor=white) 
@@ -203,8 +193,7 @@ Blockchain and Smart Contracts
 
 ### Basic DApp
 
-[![Vercel-DApp](https://img.shields.io/badge/Vercel--DApp-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://learnweb3fresh-dapp.vercel.app/) [![DApp Code](https://img.shields.io/badge/DApp--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/learnweb3freshDapp)  [![Sepolia Ether Scan](https://img.shields.io/badge/MoodDiary-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x45a3093ab4b1c5621b62000008d1ed5065711872)  
-
+[![Vercel-DApp](https://img.shields.io/badge/Vercel--DApp-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://learnweb3fresh-dapp.vercel.app/) [![DApp Code](https://img.shields.io/badge/DApp--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/learnweb3freshDapp)  [![Sepolia Ether Scan](https://img.shields.io/badge/MoodDiary-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x45a3093ab4b1c5621b62000008d1ed5065711872)  <br>
 ![ethers.js](https://img.shields.io/badge/ethers.js-764ABC?style=for-the-badge&logo=javascript&logoColor=white)
 
 - This DApp allows users to set their mood in a smart contract.
@@ -212,8 +201,7 @@ Blockchain and Smart Contracts
 
 ### ERC20 Based Cryptocurrency
 
-[![Smart Contract Code](https://img.shields.io/badge/Smart%20Contract--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/learnweb3freshERC20)  [![Sepolia Ether Scan](https://img.shields.io/badge/LW3Token-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x07C0a3c4F471F179523CDe40C880A703Ce5e8793)  
-
+[![Smart Contract Code](https://img.shields.io/badge/Smart%20Contract--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/learnweb3freshERC20)  [![Sepolia Ether Scan](https://img.shields.io/badge/LW3Token-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x07C0a3c4F471F179523CDe40C880A703Ce5e8793)  <br>
 ![ERC20](https://img.shields.io/badge/ERC20-000000?style=for-the-badge&logo=ethereum&logoColor=white) ![Remix IDE](https://img.shields.io/badge/Remix%20IDE-000000?style=for-the-badge&logo=javascript&logoColor=white)  ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 
 - This project involves creating a fungible token following the ERC-20 standard as a custom cryptocurrency.
@@ -221,8 +209,7 @@ Blockchain and Smart Contracts
 
 ### Basic NFT Contract
 
-[![Smart Contract Code](https://img.shields.io/badge/Smart%20Contract--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/learnweb3freshNFTtutorial) [![Sepolia Ether Scan](https://img.shields.io/badge/NFTee-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x94427d3183A522Ee6989F0a2b6314e186d7Ce90F)  
-
+[![Smart Contract Code](https://img.shields.io/badge/Smart%20Contract--Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umermjd11/learnweb3freshNFTtutorial) [![Sepolia Ether Scan](https://img.shields.io/badge/NFTee-Sepolia%20Ether%20Scan-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x94427d3183A522Ee6989F0a2b6314e186d7Ce90F) <br>
 ![ERC721](https://img.shields.io/badge/ERC721-000000?style=for-the-badge&logo=ethereum&logoColor=white) ![hardhat](https://img.shields.io/badge/hardhat-000000?style=for-the-badge&logo=hardhat&logoColor=white)
 
 - This project focuses on building a basic NFT (Non-Fungible Token) contract on the Ethereum network using Hardhat and OpenZeppelin Contracts.

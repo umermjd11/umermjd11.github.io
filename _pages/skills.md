@@ -4,7 +4,7 @@ title: "Skills"
 permalink: /skills/
 author_profile: true
 ---
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> <style> img {margin-bottom: 0.5%}</style>
 
 I have skills and interest in following: 
 
@@ -25,7 +25,7 @@ Blockchain
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![hardhat](https://img.shields.io/badge/hardhat-%23575757?logo=hardhat&style=for-the-badge)
 ![brownie](https://img.shields.io/badge/brownie-%23575757?logo=brownie&style=for-the-badge)
-![surya](https://img.shields.io/badge/surya-%23575757?logo=surya&style=for-the-badge) <br><br>
+![surya](https://img.shields.io/badge/surya-%23575757?logo=surya&style=for-the-badge) 
 ![ERC20](https://img.shields.io/badge/ERC20-%23575757?logo=erc20&style=for-the-badge)
 ![ERC721](https://img.shields.io/badge/ERC721-%23575757?logo=erc721&style=for-the-badge)
 ![openzeppelin-solidity](https://img.shields.io/badge/openzeppelin%20solidity-%23575757?logo=openzeppelinsolidity&style=for-the-badge)
@@ -41,7 +41,7 @@ Data Science
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)<br><br>
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HAgrid](https://img.shields.io/badge/HAgrid-F1BF7A?style=for-the-badge&logo=pysyft&logoColor=fff)
 ![Google Looker](https://img.shields.io/badge/Google%20Looker-blue?logo=looker&style=for-the-badge&logoColor=white)
 ![IBM Congos](https://img.shields.io/badge/IBM%20Congos-%23575757?logo=congos&style=for-the-badge)
@@ -77,7 +77,7 @@ Programming
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)](#)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)<br><br>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&&logo=julia&logoColor=black)
@@ -118,7 +118,7 @@ Other Skills
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
-![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff) <br><br>
+![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff) 
 ![OneNote](https://img.shields.io/badge/OneNote-ca64eb?style=for-the-badge&logo=onenote&logoColor=fff)
 ![Latex](https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=fff)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)](#)
@@ -135,7 +135,6 @@ Familar IDEs and text Editors
 ![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-%23575757?logo=jupyter&style=for-the-badge)
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](#)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](#)
-<br><br>
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23575757?logo=googlecolab&style=for-the-badge)
 

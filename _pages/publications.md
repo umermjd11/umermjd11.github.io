@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style> img {margin-bottom: 0.5%}</style>
 
 You can also find my articles on my [![Google Scholar profile](https://img.shields.io/badge/-Google%20Scholar--profile-black.svg?style=for-the-badge&logo=google-scholar&colorB=555)](https://scholar.google.com/citations?user=LrsLEJgAAAAJ&hl=en).
 
@@ -77,7 +78,7 @@ Domestic Conferences (Korean)
 4. **Umer Majeed**, Choong Seon Hong, "Blockchain Driven Knowledge Acquisition Systems: A General Framework", 2018년 한국컴퓨터종합학술대회(KSC 2018), 2018.12.19~12.21 [![Link Paper](https://img.shields.io/badge/View-Article-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613819) [![PDF Badge](https://img.shields.io/badge/Download-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/umerksc2018.pdf) 
 4. Ibrar Yaqoob, **Umer Majeed**, Choong Seon Hong, "Towards Real-Time Analytics for Mobile Big Data using the Edge Computing", 2018년 한국컴퓨터종합학술대회(KCC 2018), 2018.6.20~6.22. [![Link Paper](https://img.shields.io/badge/View-Article-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503000) [![PDF Badge](https://img.shields.io/badge/Download-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/ibrarkcc2018.pdf) 
 4. **Umer Majeed**, Choong Seon Hong, "On the Proof-of-Work Puzzle Hardness in Bitcoin Blockchain", 2018년 한국컴퓨터종합학술대회(KCC 2018), 2018.6.20~6.22.  [![Link Paper](https://img.shields.io/badge/View-Article-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503345) [![PDF Badge](https://img.shields.io/badge/Download-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/umerkcc2018.pdf) 
-4. **Umer Majeed**, Choong Seon Hong, "Markov Chain based Analytics of Requests Caching at Network Edge", 2017 한국소프트웨어종합학술대회(KSC 2017), 2017.12.20.~12.22. [![PDF Badge](https://img.shields.io/badge/Download-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/umerksc2017.pdf) 
+4. **Umer Majeed**, Choong Seon Hong, "Markov Chain based Analytics of Requests Caching at Network Edge", 2017 한국소프트웨어종합학술대회(KSC 2017), 2017.12.20.~12.22. [![Link Paper](https://img.shields.io/badge/View-Article-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322144) [![PDF Badge](https://img.shields.io/badge/Download-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/umerksc2017.pdf) 
 4. **Umer Majeed**, Choong Seon Hong, "Smart Patient Monitoring over a M2M Framework", 2017년 한국컴퓨터종합학술대회(KCC 2017), 2017.06.18.~06.20. [![Link Paper](https://img.shields.io/badge/View-Article-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207260) [![PDF Badge](https://img.shields.io/badge/Download-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/umerkcc2017.pdf) 
 
 
