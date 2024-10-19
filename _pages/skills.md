@@ -16,7 +16,7 @@ Blockchain
 ![Ethereum-Programming](https://img.shields.io/badge/Ethereum%20Programming-%23575757?logo=ethereum&style=for-the-badge)
 ![Web3.py](https://img.shields.io/badge/Web3.py-F16822?logo=web3dotpy&logoColor=fff&style=for-the-badge)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
-![ethers.js](https://img.shields.io/badge/ethers.js-3670A0?style=for-the-badge&logo=ethersdotjs&logoColor=ffdd54) <br><br>
+![ethers.js](https://img.shields.io/badge/ethers.js-3670A0?style=for-the-badge&logo=ethersdotjs&logoColor=ffdd54)
 ![Truffle](https://img.shields.io/badge/Truffle-3670A0?style=for-the-badge&logo=truffle&logoColor=ffdd54)
 ![Ganache](https://img.shields.io/badge/Ganache-3670A0?style=for-the-badge&logo=ganache&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
