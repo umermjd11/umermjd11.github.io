@@ -51,7 +51,7 @@ author_profile: true
 
 ### Transfer Learning using MobileNet - alpaca, non-alpaca dataset
 
- [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://www.kaggle.com/code/umermjd11/resnet-hand-digits)
+ [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4M2A2/tree/main)
 
  - The project demonstrate the developement, training, and testing of MobileNet Model using TensorFlow and Keras through Transfer Learning for  alpaca, non-alpaca dataset. 
 

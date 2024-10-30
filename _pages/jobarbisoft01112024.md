@@ -166,7 +166,7 @@ author_profile: true
 - **[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)** - <span class="completed-cert">Completed with certificate</span> - July 2021 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/9KPTZJVMA78D) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera9KPTZJVMA78D.pdf)    
   Gain a deep understanding of neural networks, implement architectures, and optimize through hyperparameter tuning and regularization.
 
-- **[Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network)** - <span class="completed-cert">Completed with certificate</span>  - August 2021 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/PVM5NYPM4XG8)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraPVM5NYPM4XG8.pdf) 
+- **[Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network)** - <span class="completed-cert">Completed with certificate</span>  - August 2021 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/PVM5NYPM4XG8)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraPVM5NYPM4XG8.pdf) <br>
   Explore advanced techniques like hyperparameter tuning, optimization algorithms (Adam, RMSprop), regularization methods (dropout, batch normalization), and implement models using TensorFlow.
 
 - **[Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)** -  <span class="completed-cert">Completed with certificate</span> - Oct. 2021 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/CDFMXLAVWQF3)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraCDFMXLAVWQF3.pdf) 
@@ -377,11 +377,34 @@ Showcase your DevOps and Software Engineering skills through a hands-on Capstone
 
 # Portfolio
 
-## ML
+## Deep Learning
+
+### Simple CNN models - Happyface and Digit hand Signs
+
+[![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4W1A2) <br> 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+
+- This repository highlights projects showcasing deep learning applications using TensorFlow and Keras.
+- Focuses on convolutional neural networks (ConvNets) for image classification tasks.
+- Demonstrates practical use of both the **Sequential** and **Functional** APIs for model development.
+
+### ResNet - Digit hand Signs
+
+ [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/resnet-hand-digits) [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4M2A1)
+
+ - The Kaggle notebook demonstrate the developement, training, and testing of ResNet Model using TensorFlow and Keras. The validation accuracy of 100% is achieved by best model using checkpoints.
+
+### Transfer Learning using MobileNet - alpaca, non-alpaca dataset
+
+ [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4M2A2/tree/main)
+
+ - The project demonstrate the developement, training, and testing of MobileNet Model using TensorFlow and Keras through Transfer Learning for  alpaca, non-alpaca dataset.
+
+## Machine Learning
 
 ### SpaceX Falcon 9 ML Project
- <span class="w3-tag w3-black">[Kaggle-Notebook](https://www.kaggle.com/code/umermjd11/spacex-falcon9)</span>
- <span class="w3-tag w3-black">[Dash-App](https://umermjd11-spacex-falcon9-dash.hf.space/)</span>
+ [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/spacex-falcon9)[![Dash-App](https://img.shields.io/badge/Dash--App-%23575757?logo=plotly&style=for-the-badge)](https://umermjd11-spacex-falcon9-dash.hf.space/) <br>
+ ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 This notebook details an ML project focusing on **SpaceX Falcon 9 launches** that encompasses:
 
@@ -393,7 +416,7 @@ This notebook details an ML project focusing on **SpaceX Falcon 9 launches** tha
 ## EDA
 
 ### Tesla and GameStop Stock/Revenue Data and Dashboard
- <span class="w3-tag w3-black">[Kaggle-Notebook](https://www.kaggle.com/code/umermjd11/stock-revenue-data-and-dashboard)</span>
+  [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/stock-revenue-data-and-dashboard)
 
 This notebook details an exploratory data analysis on historical stock data focusing on **Tesla and GameStop Stock/Revenue Data** that encompasses:
 
@@ -404,7 +427,7 @@ This notebook details an exploratory data analysis on historical stock data focu
 
 
 ### Socioeconomic Indicators in Chicago (2008-2012)
-<span class="w3-tag w3-black">[Kaggle Notebook](https://www.kaggle.com/code/umermjd11/eda-chicago-socioecnomics-1)</span>
+ [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/eda-chicago-socioecnomics-1)
 
 This notebook presents a comprehensive exploratory data analysis (EDA) of **socioeconomic indicators in Chicago from 2008 to 2012**. Through a combination of visualizations and statistical summaries, this notebook aims to uncover trends and insights related to Chicago's socioeconomic landscape during the specified period. The analysis includes:
 
@@ -417,7 +440,8 @@ This notebook presents a comprehensive exploratory data analysis (EDA) of **soci
 ## Google Looker
 
 ### Sales and Service Analysis Report for SwiftAuto Traders - Looker Dashboard Project
-<span class="w3-tag w3-black">[Looker Report](https://lookerstudio.google.com/reporting/c2f1b72f-b14a-431f-a57e-07f6fc78970d)</span>
+[![Looker Report](https://img.shields.io/badge/Looker--Report-blue?logo=looker&style=for-the-badge&logoColor=white)](https://lookerstudio.google.com/reporting/c2f1b72f-b14a-431f-a57e-07f6fc78970d)
+
 
 This Looker report captures the detailed analysis and visualizations for both the Sales and Service dashboards, allowing for a comprehensive view of the performance metrics at SwiftAuto Traders.
 
@@ -444,7 +468,7 @@ This report presents an analysis of car sales and profits for each dealer at Swi
 
 
 ### Products and Sales Analysis Report for Customer Loyality Program - Looker Dashboard Project
-<span class="w3-tag w3-black">[Looker Report](https://lookerstudio.google.com/reporting/67fb7926-d78a-40d4-9d30-ee42b3945d6e)</span>
+[![Looker Report](https://img.shields.io/badge/Looker--Report-blue?logo=looker&style=for-the-badge&logoColor=white)](https://lookerstudio.google.com/reporting/67fb7926-d78a-40d4-9d30-ee42b3945d6e)
 
 #### KPI Metrics
 - **Total Revenue:** $X.XX million
@@ -484,6 +508,9 @@ This report presents an analysis of car sales and profits for each dealer at Swi
 - Implemented jQuery and JavaScript to facilitate smooth communication between the user interface and server-side components via AJAX requests, enhancing the interactivity of web applications.  
 - Employed SQL queries to interface with MySQL databases, ensuring data integrity and reliability while developing robust solutions for efficient data management.
 
-**Technologies:** PHP / SQL / CodeIgniter / jQuery / AJAX / JavaScript / APIs
+**Technologies:** ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-blue?logo=sql&style=for-the-badge&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-323330?style=for-the-badge&logo=CodeIgniter&logoColor=F7DF1E)  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)](#)  [![AJAX Badge](https://img.shields.io/badge/AJAX-323330?style=for-the-badge&logo=ajax&logoColor=F7DF1E)](#) [![API Badge](https://img.shields.io/badge/API-323330?style=for-the-badge&logo=api&logoColor=white)](#)
+ ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)](#)
 
 

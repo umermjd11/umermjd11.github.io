@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Umer Majeed / Computer Scientist"
 title_separator          : "-"
 name                     : &name "Umer Majeed"
-description              : &description "Umer Majeed is a computer scientist. He has programming skills as well as writing skills. He has published research articles in leading conferences and journals. He has skills and interest in Artificial Intilligence, Blockchain, Data Science, and Web development. He also writes poetry"
+description              : &description "Umer Majeed is a versatile computer scientist with strong programming and writing skills. He has published research in leading conferences and journals and is passionate about Artificial Intelligence, Blockchain, Data Science, and Web3 Development. Additionally, he expresses his creativity through poetry."
 url                      : https://umermjd11.github.io # http://127.0.0.1:4000  # https://umermjd11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"umermjd11/umermjd11.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Umer Majeed"
   avatar           : "umer.jpg"
-  bio              : "is a computer scientist. He has programming skills as well as writing skills. He has published research articles in leading conferences and journals. He has skills and interest in Artificial Intilligence, Blockchain, Data Science, and Web development. He also writes poetry."
+  bio              : "is a versatile computer scientist with strong programming and writing skills. He has published research in leading conferences and journals and is passionate about Artificial Intelligence, Blockchain, Data Science, and Web Development. Additionally, he expresses his creativity through poetry."
   location         : "Islamabad, Pakistan."
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
