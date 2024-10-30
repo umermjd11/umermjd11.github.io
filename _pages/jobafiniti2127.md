@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Afiniti Job Senior - Lead Software Engineer (ML/AI Ops) 2127"
-permalink: /afinitijob2127/
+permalink: /jobafiniti2127/
 author_profile: true
 ---
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">

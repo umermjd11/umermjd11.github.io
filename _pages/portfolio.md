@@ -34,7 +34,7 @@ author_profile: true
 
 ## Deep Learning
 
-### Simple CNN models - Happyface and Digit Signs
+### Simple CNN models - Happyface and Digit hand Signs
 
 [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4W1A2) <br> 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
@@ -43,7 +43,17 @@ author_profile: true
 - Focuses on convolutional neural networks (ConvNets) for image classification tasks.
 - Demonstrates practical use of both the **Sequential** and **Functional** APIs for model development.
 
+### ResNet - Digit hand Signs
 
+ [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/resnet-hand-digits) [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4M2A1)
+
+ - The Kaggle notebook demonstrate the developement, training, and testing of ResNet Model using TensorFlow and Keras. The validation accuracy of 100% is achieved by best model using checkpoints.
+
+### Transfer Learning using MobileNet - alpaca, non-alpaca dataset
+
+ [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://www.kaggle.com/code/umermjd11/resnet-hand-digits)
+
+ - The project demonstrate the developement, training, and testing of MobileNet Model using TensorFlow and Keras through Transfer Learning for  alpaca, non-alpaca dataset. 
 
 ## Machine Learning
 
