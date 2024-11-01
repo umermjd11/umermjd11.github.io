@@ -43,7 +43,7 @@ author_profile: true
 
 # About Me
 
-<span style="color:blue"> I am an **AI Engineer**, Data Scientist, and Web3 Developer, currently completing a Ph.D. in Computer Science & Engineering with a focus on **AI, machine learning**, and privacy-preserving technologies.</span> Skilled in Python, SQL, JavaScript, and Solidity, I have a proven record of implementing machine learning and deep learning algorithms using frameworks like TensorFlow, PyTorch, and Scikit-learn. Additionally, my solid foundation in object-oriented programming supports my ability to design efficient and scalable solutions.
+<span style="color:blue"> I am an **AI Engineer**, Data Scientist, Web3 Developer, and a Ph.D. candidate in Computer Science & Engineering with a focus on **AI*, and privacy-preserving technologies.</span> Skilled in Python, SQL, JavaScript, and Solidity, I have a proven record of implementing machine learning and deep learning algorithms using frameworks like TensorFlow, PyTorch, and Scikit-learn. Additionally, my solid foundation in object-oriented programming supports my ability to design efficient and scalable solutions.
 
 <span style="color:blue">Throughout my academic journey, I’ve published research in international journals and conferences on **decentralized learning** and **federated systems**, which has sharpened my technical expertise and collaborative skills.</span>I thrive in multidisciplinary teams, working closely with data scientists and engineers to develop tailored AI-driven solutions.
 
