@@ -55,6 +55,12 @@ author_profile: true
 
  - The project demonstrate the developement, training, and testing of MobileNet Model using TensorFlow and Keras through Transfer Learning for  alpaca, non-alpaca dataset. 
 
+ [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/mobilenet-alpaca-non-alpaca-bc)
+
+ - The kaggle notebook demonstrate 100% accurate MobileNet Model using TensorFlow and Keras through Transfer Learning for  alpaca, non-alpaca dataset and advanced data augmentation techniques. 
+
+ 
+
 ## Machine Learning
 
 ### SpaceX Falcon 9 ML Project
