@@ -69,7 +69,7 @@ author_profile: true
 
  - This notebook demonstrates object detection using YOLOv2, leveraging technologies such as TensorFlow for deep learning and the PIL library for image processing to identify and classify objects with bounding boxes for 80 classes supported by the COCO dataset. Users can process any input image, visualize detection results, and benefit from the model's efficiency and versatility in real-time applications.
 
- ### Image segmentation using Unet
+### Image segmentation using Unet
 
   [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/unet-image-segmentation) <br> 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
