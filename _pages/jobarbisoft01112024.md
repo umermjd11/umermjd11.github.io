@@ -382,7 +382,7 @@ Showcase your DevOps and Software Engineering skills through a hands-on Capstone
 ### Simple CNN models - Happyface and Digit hand Signs
 
 [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4W1A2) <br> 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
 - This repository highlights projects showcasing deep learning applications using TensorFlow and Keras.
 - Focuses on convolutional neural networks (ConvNets) for image classification tasks.
@@ -390,19 +390,35 @@ Showcase your DevOps and Software Engineering skills through a hands-on Capstone
 
 ### ResNet - Digit hand Signs
 
- [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/resnet-hand-digits) [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4M2A1)
+ [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/resnet-hand-digits) [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4M2A1) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) 
 
  - The Kaggle notebook demonstrate the developement, training, and testing of ResNet Model using TensorFlow and Keras. The validation accuracy of 100% is achieved by best model using checkpoints.
 
 ### Transfer Learning using MobileNet - alpaca, non-alpaca dataset
 
- [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4M2A2/tree/main)
+ [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4M2A2/tree/main) <br> 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
  - The project demonstrate the developement, training, and testing of MobileNet Model using TensorFlow and Keras through Transfer Learning for  alpaca, non-alpaca dataset.
 
- [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/mobilenet-alpaca-non-alpaca-bc)
+ [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/mobilenet-alpaca-non-alpaca-bc) <br> 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
  - The kaggle notebook demonstrate 100% accurate MobileNet Model using TensorFlow and Keras through Transfer Learning for  alpaca, non-alpaca dataset and advanced data augmentation techniques.
+
+### Object Detection using yolov2
+
+  [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4M3A1/blob/master/Autonomous_driving_application_Car_detection_v3tf2.ipynb) <br> 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![PIL](https://img.shields.io/badge/PIL-FF0000?style=for-the-badge&logo=pil&logoColor=white)
+
+ - This notebook demonstrates object detection using YOLOv2, leveraging technologies such as TensorFlow for deep learning and the PIL library for image processing to identify and classify objects with bounding boxes for 80 classes supported by the COCO dataset. Users can process any input image, visualize detection results, and benefit from the model's efficiency and versatility in real-time applications.
+
+ ### Image segmentation using Unet
+
+  [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/unet-image-segmentation) <br> 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+ 
+ - This project focuses on developing and optimizing a U-Net model for image segmentation tasks. It involves training on RGB images paired with corresponding masks to accurately segment images.
 
 ## Machine Learning
 
