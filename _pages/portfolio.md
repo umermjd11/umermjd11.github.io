@@ -76,6 +76,13 @@ author_profile: true
  
  - This project focuses on developing and optimizing a U-Net model for image segmentation tasks. It involves training on RGB images paired with corresponding masks to accurately segment images.
 
+ ### Face recognition using facenet
+
+ [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4M4A1/blob/master/Face_Recognition.end.2024.ipynb) <br> 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras%20facenet-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![PIL](https://img.shields.io/badge/PIL-FF0000?style=for-the-badge&logo=pil&logoColor=white)
+
+ - This project implements a state-of-the-art facial recognition system using the FaceNet model, which generates 512-dimensional embeddings of face images to perform verification and recognition tasks. 
+
 
 ## Machine Learning
 
