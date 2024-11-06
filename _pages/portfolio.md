@@ -89,7 +89,7 @@ author_profile: true
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/dl-art-neural-style-transfer) <br> 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
  
- - This project applies neural style transfer to blend the content of a target image with the artistic style of a reference image using deep learning techniques. By leveraging pre-trained convolutional neural networks (CNNs) for feature extraction and optimizing the generated image through a combination of content and style costs, the project generates visually compelling images that merge both elements seamlessly.
+ - This project applies neural style transfer to blend the content of a target image with the artistic style of a reference image using deep learning techniques. By leveraging pre-trained convolutional neural networks (VGG19) for feature extraction and optimizing the generated image through a combination of content and style costs, the project generates visually compelling images that merge both elements seamlessly.
 
 
 ## Machine Learning
