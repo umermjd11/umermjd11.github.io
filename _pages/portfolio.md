@@ -32,7 +32,7 @@ author_profile: true
 
    A dataset detailing the districts of Pakistan.
 
-## Deep Learning
+## [Deep Learning](#dl)
 
 ### Simple CNN models - Happyface and Digit hand Signs
 
@@ -92,7 +92,7 @@ author_profile: true
  - This project applies neural style transfer to blend the content of a target image with the artistic style of a reference image using deep learning techniques. By leveraging pre-trained convolutional neural networks (VGG19) for feature extraction and optimizing the generated image through a combination of content and style costs, the project generates visually compelling images that merge both elements seamlessly.
 
 
-## Machine Learning
+## [Machine Learning](#ml)
 
 ### SpaceX Falcon 9 ML Project
 
