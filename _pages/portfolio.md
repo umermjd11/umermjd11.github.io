@@ -32,7 +32,9 @@ author_profile: true
 
    A dataset detailing the districts of Pakistan.
 
-## [Deep Learning](#dl)
+<a id="dl"></a>
+
+## Deep Learning
 
 ### Simple CNN models - Happyface and Digit hand Signs
 
@@ -91,8 +93,9 @@ author_profile: true
  
  - This project applies neural style transfer to blend the content of a target image with the artistic style of a reference image using deep learning techniques. By leveraging pre-trained convolutional neural networks (VGG19) for feature extraction and optimizing the generated image through a combination of content and style costs, the project generates visually compelling images that merge both elements seamlessly.
 
+<a id="ml"></a>
 
-## [Machine Learning](#ml)
+## Machine Learning
 
 ### SpaceX Falcon 9 ML Project
 
@@ -106,7 +109,9 @@ This notebook details an ML project focusing on **SpaceX Falcon 9 launches** tha
 - **Visualization** and **Interactive Dashboards** using Plotly Dash and Folium
 - **Predictive Analysis** through classification techniques
 
-## EDA
+<a id="eda"></a>
+
+## Exploratory Data Analysis
 
 ### Tesla and GameStop Stock/Revenue Data and Dashboard
   [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/stock-revenue-data-and-dashboard)
@@ -151,8 +156,8 @@ This notebook focuses on **exploratory data analysis (EDA) of the Pakistan-PHD c
 * **University Performance:** Comparison of university performance based on PhD output.
 
 
-
-## Google Looker
+<a id="dashboards"></a>
+## Dashboard & Visualization Projects
 
 ### Sales and Service Analysis Report for SwiftAuto Traders - Looker Dashboard Project
 [![Looker Report](https://img.shields.io/badge/Looker--Report-blue?logo=looker&style=for-the-badge&logoColor=white)](https://lookerstudio.google.com/reporting/c2f1b72f-b14a-431f-a57e-07f6fc78970d)
