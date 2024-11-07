@@ -156,7 +156,7 @@ This notebook focuses on **exploratory data analysis (EDA) of the Pakistan-PHD c
 * **University Performance:** Comparison of university performance based on PhD output.
 
 
-<a id="dashboards"></a>
+<a id="dashboard"></a>
 ## Dashboard & Visualization Projects
 
 ### Sales and Service Analysis Report for SwiftAuto Traders - Looker Dashboard Project
