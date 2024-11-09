@@ -93,6 +93,12 @@ author_profile: true
  
  - This project applies neural style transfer to blend the content of a target image with the artistic style of a reference image using deep learning techniques. By leveraging pre-trained convolutional neural networks (VGG19) for feature extraction and optimizing the generated image through a combination of content and style costs, the project generates visually compelling images that merge both elements seamlessly.
 
+### RNN from Scratch - Dinosaur Island
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/rnn-scratch-dinosaurus-island) <br> 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+ 
+ - The project involves developing a character-level Recurrent Neural Network (RNN) from scratch to generate unique dinosaur names by training on a dataset of existing names. By learning the patterns and structures of these names, the model aims to produce innovative and safe new names for fictional dinosaurs in a creative setting.
+
 <a id="ml"></a>
 
 ## Machine Learning
