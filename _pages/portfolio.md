@@ -97,7 +97,15 @@ author_profile: true
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/rnn-scratch-dinosaurus-island) <br> 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  
- - The project involves developing a character-level Recurrent Neural Network (RNN) from scratch to generate unique dinosaur names by training on a dataset of existing names. By learning the patterns and structures of these names, the model aims to produce innovative and safe new names for fictional dinosaurs in a creative setting.
+ - This project involves developing a character-level Recurrent Neural Network (RNN) from scratch to generate unique dinosaur names by training on a dataset of existing names. By learning the patterns and structures of these names, the model aims to produce innovative and safe new names for fictional dinosaurs in a creative setting.
+
+### Transfer Learning - LSTM based RNN - Shakespeare Sonnet
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/rnn-transfer-learning-shakespeare) <br> 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+ 
+ - This project uses LSTM based RNN for character-level text generation to emulate Shakespearean-style poetry. By training on a corpus of Shakespeare's works, the model captures intricate linguistic patterns and dependencies, aiming to produce text that reflects his distinct style and structure.
+
+
 
 <a id="ml"></a>
 
