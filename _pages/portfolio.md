@@ -101,11 +101,15 @@ author_profile: true
 
 ### Transfer Learning - LSTM based RNN - Shakespeare Sonnet
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/rnn-transfer-learning-shakespeare) <br> 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
  
  - This project uses LSTM based RNN for character-level text generation to emulate Shakespearean-style poetry. By training on a corpus of Shakespeare's works, the model captures intricate linguistic patterns and dependencies, aiming to produce text that reflects his distinct style and structure.
 
-
+### Music Generation - LSTM based RNN 
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/rnn-lstm-music-generation) [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC5M1A3/blob/master/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network.portfolio.ipynb)<br> 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+ 
+ - This project uses LSTM based RNN for character-level text generation to emulate Shakespearean-style poetry. By training on a corpus of Shakespeare's works, the model captures intricate linguistic patterns and dependencies, aiming to produce text that reflects his distinct style and structure.
 
 <a id="ml"></a>
 
