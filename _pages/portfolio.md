@@ -111,6 +111,13 @@ author_profile: true
  
  - This project uses LSTM based RNN for character-level text generation to emulate Shakespearean-style poetry. By training on a corpus of Shakespeare's works, the model captures intricate linguistic patterns and dependencies, aiming to produce text that reflects his distinct style and structure.
 
+
+### Word Embeddings - Similarity, Debiasing & Equalization
+[![Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC5M2A1/blob/master/Operations_on_word_vectors.v2a.end%20portfolio.ipynb) <br> 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+ - This project explores the identification and reduction of gender biases in word embeddings, specifically using GloVe vectors, through techniques like neutralization and equalization. It applies these methods to various words and gendered pairs, demonstrating how debiasing can mitigate implicit biases in natural language processing models.
+
 <a id="ml"></a>
 
 ## Machine Learning
