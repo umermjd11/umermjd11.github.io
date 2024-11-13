@@ -229,6 +229,8 @@ This report presents an analysis of car sales and profits for each dealer at Swi
 1. Word cloud of revenue by state or province.
 1. Bubble chart of revenue by loyality status and product line.
 
+<a id="web3"></a>
+
 Blockchain and Smart Contracts
 ===========
 
