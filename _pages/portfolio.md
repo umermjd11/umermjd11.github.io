@@ -118,6 +118,19 @@ author_profile: true
 
  - This project explores the identification and reduction of gender biases in word embeddings, specifically using GloVe vectors, through techniques like neutralization and equalization. It applies these methods to various words and gendered pairs, demonstrating how debiasing can mitigate implicit biases in natural language processing models.
 
+ ### Emojifier: Enhancing Text Expressiveness with Emoji
+[![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC5M2A2/blob/master/Emoji.v3a.end.portfolio.ipynb) <br> 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+- This project focuses on predicting emojis based on the sentiment conveyed in a sentence using word embeddings and LSTM networks. The Emojify-V1 Model uses basic word embeddings for emoji prediction, while the Emojify-V2 Model leverages LSTM networks to better understand word order and context, improving accuracy in predicting emojis even in more complex sentences.
+
+### Neural Machine Translation with Attention
+[![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC5M3A1/blob/master/Neural_machine_translation_with_attention.v4a.end.portfolio.ipynb) <br> 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+- This project demonstrates the application of an attention-based neural network to perform sequence-to-sequence translation, using the example of date format conversion. Key features include the attention mechanism, which enables the model to selectively focus on relevant input parts for accurate output generation, and the ability to visualize attention weights, offering insights into the model's decision-making.
+
+
 <a id="ml"></a>
 
 ## Machine Learning
