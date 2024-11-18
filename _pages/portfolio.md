@@ -118,7 +118,7 @@ author_profile: true
 
  - This project explores the identification and reduction of gender biases in word embeddings, specifically using GloVe vectors, through techniques like neutralization and equalization. It applies these methods to various words and gendered pairs, demonstrating how debiasing can mitigate implicit biases in natural language processing models.
 
- ### Emojifier: Enhancing Text Expressiveness with Emoji
+### Emojifier: Enhancing Text Expressiveness with Emoji
 [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC5M2A2/blob/master/Emoji.v3a.end.portfolio.ipynb) <br> 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
@@ -129,6 +129,12 @@ author_profile: true
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 - This project demonstrates the application of an attention-based neural network to perform sequence-to-sequence translation, using the example of date format conversion. Key features include the attention mechanism, which enables the model to selectively focus on relevant input parts for accurate output generation, and the ability to visualize attention weights, offering insights into the model's decision-making.
+
+### Trigger word detection 
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/trigger-word-detection) <br> 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) 
+ 
+ - This project focuses on building a trigger word detection system using deep learning, leveraging synthetic data generation and advanced recurrent neural network architecture with GRUs for robust performance. Key features include spectrogram-based audio preprocessing, chime overlay functionality upon trigger word detection, and a customizable system capable of handling diverse audio inputs and noisy environments.
 
 
 <a id="ml"></a>
