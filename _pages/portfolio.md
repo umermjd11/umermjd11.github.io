@@ -142,6 +142,12 @@ author_profile: true
 
 - This project implements the Transformer architecture from scratch, encompassing positional encodings, scaled dot-product attention, multi-head attention, and the complete Encoder and Decoder. It provides a detailed understanding of the fundamental components that make up the Transformer model.
 
+### Exploring Positional Encodings in Transformer Architectures
+[![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC5M4A2/blob/master/Embedding_plus_Positional_encoding.portfolio.ipynb) <br> 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+- This project investigates the role of positional encodings in Transformer models by visualizing their relational properties and their impact on semantic word embeddings. Key features include correlation and distance matrix analysis, integration with GloVe embeddings, and the ability to adjust weights to balance semantic meaning with positional context.
+
 <a id="ml"></a>
 
 ## Machine Learning
