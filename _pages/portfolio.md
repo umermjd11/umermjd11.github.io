@@ -136,6 +136,11 @@ author_profile: true
  
  - This project focuses on building a trigger word detection system using deep learning, leveraging synthetic data generation and advanced recurrent neural network architecture with GRUs for robust performance. Key features include spectrogram-based audio preprocessing, chime overlay functionality upon trigger word detection, and a customizable system capable of handling diverse audio inputs and noisy environments.
 
+### Transformer from Scratch
+[![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC5M4A1/blob/master/C5_W4_A1_Transformer_Subclass.v1.portfolio.ipynb) <br> 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+- This project implements the Transformer architecture from scratch, encompassing positional encodings, scaled dot-product attention, multi-head attention, and the complete Encoder and Decoder. It provides a detailed understanding of the fundamental components that make up the Transformer model.
 
 <a id="ml"></a>
 
