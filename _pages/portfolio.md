@@ -180,6 +180,14 @@ author_profile: true
 
 - This project investigates the role of positional encodings in Transformer models by visualizing their relational properties and their impact on semantic word embeddings. Key features include correlation and distance matrix analysis, integration with GloVe embeddings, and the ability to adjust weights to balance semantic meaning with positional context.
 
+<a id="nerdl"></a>
+
+### Transformer Network Application: Named-Entity Recognition (NER) 
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/named-entity-recognition#notebook-container) <br> 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) 
+ 
+ - This project leverages Transformer models for Named-Entity Recognition (NER), focusing on preprocessing techniques to optimize model performance on tokenized textual data. Key features include aligning true labels with tokenized inputs and visualizing label distributions to assess prediction consistency, achieving high accuracy and F1-scores across various entity categories.
+
 <a id="ml"></a>
 
 ## Machine Learning
