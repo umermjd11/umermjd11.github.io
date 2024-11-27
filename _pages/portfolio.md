@@ -36,6 +36,8 @@ author_profile: true
 
 ## Deep Learning
 
+<a id="simplecnndl"></a>
+
 ### Simple CNN models - Happyface and Digit hand Signs
 
 [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4W1A2) <br> 
@@ -45,12 +47,16 @@ author_profile: true
 - Focuses on convolutional neural networks (ConvNets) for image classification tasks.
 - Demonstrates practical use of both the **Sequential** and **Functional** APIs for model development.
 
+<a id="resnetdhsdl"></a>
+
 ### ResNet - Digit hand Signs
 
  [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/resnet-hand-digits) [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4M2A1) <br> 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
  - The Kaggle notebook demonstrate the developement, training, and testing of ResNet Model using TensorFlow and Keras. The validation accuracy of 100% is achieved by best model using checkpoints.
+
+<a id="tlmndl"></a>
 
 ### Transfer Learning using MobileNet - alpaca, non-alpaca dataset
 
@@ -64,12 +70,16 @@ author_profile: true
 
  - The kaggle notebook demonstrate 100% accurate MobileNet Model using TensorFlow and Keras through Transfer Learning for  alpaca, non-alpaca dataset and advanced data augmentation techniques. 
 
+<a id="odydl"></a>
+
 ### Object Detection using yolov2
 
   [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4M3A1/blob/master/Autonomous_driving_application_Car_detection_v3tf2.ipynb) <br> 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![PIL](https://img.shields.io/badge/PIL-FF0000?style=for-the-badge&logo=pil&logoColor=white)
 
  - This notebook demonstrates object detection using YOLOv2, leveraging technologies such as TensorFlow for deep learning and the PIL library for image processing to identify and classify objects with bounding boxes for 80 classes supported by the COCO dataset. Users can process any input image, visualize detection results, and benefit from the model's efficiency and versatility in real-time applications.
+
+<a id="isundl"></a>
 
 ### Image segmentation using Unet
 
@@ -78,6 +88,9 @@ author_profile: true
  
  - This project focuses on developing and optimizing a U-Net model for image segmentation tasks. It involves training on RGB images paired with corresponding masks to accurately segment images.
 
+
+<a id="frfndl"></a>
+
 ### Face recognition using facenet
 
  [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC4M4A1/blob/master/Face_Recognition.end.2024.ipynb) <br> 
@@ -85,6 +98,7 @@ author_profile: true
 
  - This project implements a state-of-the-art facial recognition system using the FaceNet model, which generates 512-dimensional embeddings of face images to perform verification and recognition tasks. 
 
+<a id="dlartnstdl"></a>
 
 ### DL Art - Neural Style Transfer
 
@@ -93,24 +107,31 @@ author_profile: true
  
  - This project applies neural style transfer to blend the content of a target image with the artistic style of a reference image using deep learning techniques. By leveraging pre-trained convolutional neural networks (VGG19) for feature extraction and optimizing the generated image through a combination of content and style costs, the project generates visually compelling images that merge both elements seamlessly.
 
+<a id="rnnscratchdl"></a>
+
 ### RNN from Scratch - Dinosaur Island
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/rnn-scratch-dinosaurus-island) <br> 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  
  - This project involves developing a character-level Recurrent Neural Network (RNN) from scratch to generate unique dinosaur names by training on a dataset of existing names. By learning the patterns and structures of these names, the model aims to produce innovative and safe new names for fictional dinosaurs in a creative setting.
 
-### Transfer Learning - LSTM based RNN - Shakespeare Sonnet
+<a id="tgtllstmdl"></a>
+
+### Text generation - Transfer Learning - LSTM based RNN - Shakespeare Sonnet
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/rnn-transfer-learning-shakespeare) <br> 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
  
  - This project uses LSTM based RNN for character-level text generation to emulate Shakespearean-style poetry. By training on a corpus of Shakespeare's works, the model captures intricate linguistic patterns and dependencies, aiming to produce text that reflects his distinct style and structure.
 
+
+<a id="mglstmdl"></a>
 ### Music Generation - LSTM based RNN 
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/rnn-lstm-music-generation) [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC5M1A3/blob/master/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network.portfolio.ipynb)<br> 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
  
  - This project uses LSTM based RNN for character-level text generation to emulate Shakespearean-style poetry. By training on a corpus of Shakespeare's works, the model captures intricate linguistic patterns and dependencies, aiming to produce text that reflects his distinct style and structure.
 
+<a id="wesdedl"></a>
 
 ### Word Embeddings - Similarity, Debiasing & Equalization
 [![Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC5M2A1/blob/master/Operations_on_word_vectors.v2a.end%20portfolio.ipynb) <br> 
@@ -118,11 +139,15 @@ author_profile: true
 
  - This project explores the identification and reduction of gender biases in word embeddings, specifically using GloVe vectors, through techniques like neutralization and equalization. It applies these methods to various words and gendered pairs, demonstrating how debiasing can mitigate implicit biases in natural language processing models.
 
+<a id="eetewedl"></a>
+
 ### Emojifier: Enhancing Text Expressiveness with Emoji
 [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC5M2A2/blob/master/Emoji.v3a.end.portfolio.ipynb) <br> 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 - This project focuses on predicting emojis based on the sentiment conveyed in a sentence using word embeddings and LSTM networks. The Emojify-V1 Model uses basic word embeddings for emoji prediction, while the Emojify-V2 Model leverages LSTM networks to better understand word order and context, improving accuracy in predicting emojis even in more complex sentences.
+
+<a id="nmtwadl"></a>
 
 ### Neural Machine Translation with Attention
 [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC5M3A1/blob/master/Neural_machine_translation_with_attention.v4a.end.portfolio.ipynb) <br> 
@@ -130,17 +155,23 @@ author_profile: true
 
 - This project demonstrates the application of an attention-based neural network to perform sequence-to-sequence translation, using the example of date format conversion. Key features include the attention mechanism, which enables the model to selectively focus on relevant input parts for accurate output generation, and the ability to visualize attention weights, offering insights into the model's decision-making.
 
-### Trigger word detection 
+<a id="twddl"></a>
+
+### Trigger word detection - from voice 
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/trigger-word-detection) <br> 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) 
  
  - This project focuses on building a trigger word detection system using deep learning, leveraging synthetic data generation and advanced recurrent neural network architecture with GRUs for robust performance. Key features include spectrogram-based audio preprocessing, chime overlay functionality upon trigger word detection, and a customizable system capable of handling diverse audio inputs and noisy environments.
+
+<a id="tfsdl"></a>
 
 ### Transformer from Scratch
 [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC5M4A1/blob/master/C5_W4_A1_Transformer_Subclass.v1.portfolio.ipynb) <br> 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 - This project implements the Transformer architecture from scratch, encompassing positional encodings, scaled dot-product attention, multi-head attention, and the complete Encoder and Decoder. It provides a detailed understanding of the fundamental components that make up the Transformer model.
+
+<a id="epetdl"></a>
 
 ### Exploring Positional Encodings in Transformer Architectures
 [![DL Code](https://img.shields.io/badge/DL--code-black?logo=github&style=for-the-badge)](https://github.com/umermjd11/DLC5M4A2/blob/master/Embedding_plus_Positional_encoding.portfolio.ipynb)  [![nbviewer](https://img.shields.io/badge/nbviewer-view-orange?logo=jupyter&style=for-the-badge)](https://nbviewer.org/github/umermjd11/DLC5M4A2/blob/master/Embedding_plus_Positional_encoding.portfolio.ipynb)
