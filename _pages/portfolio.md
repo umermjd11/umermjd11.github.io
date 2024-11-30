@@ -184,9 +184,18 @@ author_profile: true
 
 ### Transformer Network Application: Named-Entity Recognition (NER) 
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/named-entity-recognition#notebook-container) <br> 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-blue?style=for-the-badge&logo=huggingface)
  
  - This project leverages Transformer models for Named-Entity Recognition (NER), focusing on preprocessing techniques to optimize model performance on tokenized textual data. Key features include aligning true labels with tokenized inputs and visualizing label distributions to assess prediction consistency, achieving high accuracy and F1-scores across various entity categories.
+
+<a id="qatnadl"></a>
+
+### Transformer Network Application: Question Answering
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle--Notebook-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/code/umermjd11/qa-transformer) <br> 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-blue?style=for-the-badge&logo=huggingface)
+
+- This project successfully implemented and compared Transformer-based models for extractive Question Answering using Hugging Face Transformers, TensorFlow, and PyTorch, demonstrating effective fine-tuning, preprocessing, and evaluation techniques. It showcased the strengths of each framework and provided insights into applying advanced models for accurate and efficient natural language understanding.
+
 
 <a id="ml"></a>
 
