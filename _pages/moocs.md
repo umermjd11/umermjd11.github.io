@@ -145,7 +145,7 @@ Massive Open Online Courses (MOOCs) are free online courses available for anyone
 
   Explore CNN layers, advanced architectures like ResNet, apply object detection techniques (YOLO, U-Net), and create models for applications like face recognition and neural style transfer.
 
-- **[Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)** - <span class="audited-labs">Audit Completed with Labs</span> 
+- **[Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)** - Nov. 2024- <span class="audited-labs">Audit Completed with Labs</span> 
   Implement RNNs, GRUs, LSTMs, and transformers for NLP tasks like machine translation and named entity recognition, and apply attention mechanisms for enhanced performance.
 
 ### AI For Everyone - Course - Coursera 
