@@ -158,6 +158,25 @@ Massive Open Online Courses (**MOOCs**) have enabled me to gain industry-relevan
     This course introduces the core principles of **reinforcement learning**, covering key topics such as **Markov decision processes**, **value functions**, and **policy gradients**. Learners will explore fundamental algorithms and techniques used in reinforcement learning, gaining practical experience through programming assignments and projects.
 
 
+### Google AI Essentials Specialization – Coursera  
+[Google AI Essentials – Google Career Certificates – Coursera](https://www.coursera.org/specializations/ai-essentials-google) - <span class="completed-cert">Completed with certificate</span> - June 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/DHQIZ9Y7A9DZ) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraDHQIZ9Y7A9DZ.pdf)  
+
+- **[Introduction to AI](https://www.coursera.org/learn/introduction-to-ai-google)** - <span class="completed-cert">Completed with certificate</span> - June 10, 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/SH5UIKJ9MNJ6) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraSH5UIKJ9MNJ6.pdf)  
+  Define AI, understand basic functionality, training with data, limitations, and the importance of human oversight.  
+
+- **[Maximize Productivity With AI Tools](https://www.coursera.org/learn/maximize-productivity-ai-tools-google)** - <span class="completed-cert">Completed with certificate</span> - June 20, 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/3D0BPXPF0JTM) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera3D0BPXPF0JTM.pdf)  
+  Learn workplace AI applications, identify productivity opportunities, and optimize processes with AI-driven tools.  
+
+- **[Discover the Art of Prompting](https://www.coursera.org/learn/discover-art-prompting-google)** - <span class="completed-cert">Completed with certificate</span> - June 21, 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/UQT5CXO1KPXX) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraUQT5CXO1KPXX.pdf)  
+  Master prompt engineering, analyze LLM outputs, and refine prompts for effective results in diverse use cases.  
+
+- **[Use AI Responsibly](https://www.coursera.org/learn/use-ai-responsibly-google)** - <span class="completed-cert">Completed with certificate</span> - June 22, 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/AKUWQKHP7AKM) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraAKUWQKHP7AKM.pdf)  
+  Explore AI ethics, risks, biases, and responsible use with attention to privacy, fairness, and security.  
+
+- **[Stay Ahead of the AI Curve](https://www.coursera.org/learn/stay-ahead-ai-curve-google)** - <span class="completed-cert">Completed with certificate</span> - June 23, 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/6D4CY79P2GAO) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera6D4CY79P2GAO.pdf)  
+  Gain strategies to stay current in AI trends, evaluate emerging tools, and leverage AI in the workplace.  
+
+
 # Data Science
 
 
