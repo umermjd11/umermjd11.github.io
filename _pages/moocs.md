@@ -118,7 +118,7 @@ Massive Open Online Courses (**MOOCs**) have enabled me to gain industry-relevan
 
 ### Web3 and Blockchain Fundamentals - Course - Coursera
 
-- **[Web3 and Blockchain Fundamentals](https://www.coursera.org/learn/web3-blockchain-fundamentals)** by INSEAD - Coursera <span class="audited-labs">Audit Completed</span> - Feb. 2024 <br>
+- **[Web3 and Blockchain Fundamentals](https://www.coursera.org/learn/web3-blockchain-fundamentals)** by INSEAD - Coursera <span class="completed-cert">Completed with certificate</span> - Feb. 2024 -- Aug. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6V5AHVWBJPRO)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera6V5AHVWBJPRO.pdf) <br/>
     This course covers essential concepts in **Web3**, including the foundational technologies that support **decentralized applications**, the roles of **smart contracts**, **digital assets**, and **governance tokens** within the ecosystem. Participants explore the implications of **DAOs** (Decentralized Autonomous Organizations) and identify key **blockchain design principles** along with the challenges associated with implementing blockchain technology in real-world scenarios.
 
 ### Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial
