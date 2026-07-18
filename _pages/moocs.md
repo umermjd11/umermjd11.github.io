@@ -45,111 +45,7 @@ Massive Open Online Courses (**MOOCs**) have enabled me to gain industry-relevan
 
 
 
-# Datacamp  
-[https://www.datacamp.com/portfolio/umermajeed](https://www.datacamp.com/portfolio/umermajeed)
-
-- **[Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/ff5733b25213b4fcdebfe6d53ff5324ba59c4138?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/ff5733b25213b4fcdebfe6d53ff5324ba59c4138?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Introduction to Python.pdf)  
-
-
-
-- **[Intermediate Python](https://www.datacamp.com/statement-of-accomplishment/course/e52f46933bc18b70339e2c2247e27c4c9a568549?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/e52f46933bc18b70339e2c2247e27c4c9a568549?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Intermediate Python.pdf)  
-
-- **[Data Types for Data Science in Python](https://www.datacamp.com/statement-of-accomplishment/course/1cccb170113fb7da5c6451858996125cc1691f23?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/1cccb170113fb7da5c6451858996125cc1691f23?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Data Types for Data Science in Python.pdf)  
-
-- **[Python Data Science Toolbox (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/cce853ee8500f12ab3e992044e8c39d64806a7fd?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/cce853ee8500f12ab3e992044e8c39d64806a7fd?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Python Data Science Toolbox (Part 1).pdf)  
-
-- **[Python Data Science Toolbox (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/8395e2fb15cb4f41ae023d2cfc546cd378bbb7ea?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/8395e2fb15cb4f41ae023d2cfc546cd378bbb7ea?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Python Data Science Toolbox (Part 2).pdf)  
-
-- **[Statistical Thinking in Python (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/9b6fb7af03f3853e7f6a50fb2fea61f119380388?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/9b6fb7af03f3853e7f6a50fb2fea61f119380388?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Statistical Thinking in Python (Part 1).pdf)  
-
-- **[Statistical Thinking in Python (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/5f7c6f6f9af48fc6358fe2d3c24d36decdb19795?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/5f7c6f6f9af48fc6358fe2d3c24d36decdb19795?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Statistical Thinking in Python (Part 2).pdf)  
-
-- **[Introduction to Version Control with Git](https://www.datacamp.com/statement-of-accomplishment/course/46688bffe2327453c6f8b869739c02aa88e0f214?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2018 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/46688bffe2327453c6f8b869739c02aa88e0f214?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Introduction to Version Control with Git.pdf)  
-
-- **[Intermediate SQL Queries](https://www.datacamp.com/statement-of-accomplishment/course/07967d6ba3f5253e7adfae8542cfd11366d51f59?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/07967d6ba3f5253e7adfae8542cfd11366d51f59?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Intermediate SQL Queries.pdf)  
-
-- **[Introduction to Shell](https://www.datacamp.com/statement-of-accomplishment/course/aa90c4ea52dce2e106be6a790c1d8719a103083f?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2018 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/aa90c4ea52dce2e106be6a790c1d8719a103083f?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Introduction to Shell.pdf)  
-
-- **[Introduction to Data Visualization in Python](https://www.datacamp.com/statement-of-accomplishment/course/79118f098714c3298f347fb33c945747317eb954?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/79118f098714c3298f347fb33c945747317eb954?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Introduction to Data Visualization in Python.pdf)  
-
-- **[Intermediate Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/e776b9a0bb4d64d92acc0ee1b6f5f25ebdb0e480?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2018 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/e776b9a0bb4d64d92acc0ee1b6f5f25ebdb0e480?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Intermediate Data Visualization with Seaborn.pdf)  
-
-# Private & Secure AI and Data Science
-1. **[Our Privacy Opportunity](https://courses.openmined.org/courses/our-privacy-opportunity/)** by [openmined.org](https://www.openmined.org/) - <span class="completed-cert-awaiting">Completed with certificate awaiting</span> - Mar. 2021  
-   Explore structured transparency, **privacy techniques**, and the **privacy-transparency trade-off**.
-   
-2. **[Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation)** by [openmined.org](https://www.openmined.org/) - <span class="in-progress">In Progress</span> - Progress 80%  
-   Implement **federated learning**, **secure multi-party computation**, **homomorphic encryption**, and **differential privacy**.
-   
-3. **[Introduction to Remote Data Science](https://courses.openmined.org/courses/introduction-to-remote-data-science)** by [openmined.org](https://www.openmined.org/) - <span class="completed-cert-awaiting">Completed with certificate awaiting</span> - Feb. 2022  
-   Use **remote execution tools**, deploy **Domain Nodes**, and apply **privacy-preserving techniques** for distributed data science.
-
-
-
-# Blockchain, Smart Contracts and Web3
-
-
-### Blockchain Specialization - Coursera 
-[Blockchain Specialization - University at Buffalo - Coursera](https://www.coursera.org/specializations/blockchain) - <span class="completed-cert">Completed with certificate</span> - Feb. 2020 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/R7EPJZBHSMGH) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraR7EPJZBHSMGH.pdf)   
-
-- **[Blockchain Basics](https://www.coursera.org/learn/blockchain-basics?specialization=blockchain)** - <span class="completed-cert">Completed with certificate</span> - Dec. 2018 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/V7Q3QPWZ9WYB)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraV7Q3QPWZ9WYB.pdf)   
-  Understand the core principles of blockchain technology, including its structure, cryptographic security, and consensus mechanisms like PoW and PoS.
-
-- **[Smart Contracts](https://www.coursera.org/learn/smarter-contracts?specialization=blockchain)** - <span class="completed-cert">Completed with certificate</span> - July 2019 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/KKL6CMMVXWNJ)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraKKL6CMMVXWNJ.pdf)   
-  Learn to design, code, and deploy smart contracts using Solidity, and implement best practices for secure and efficient contract development.
-
-- **[Decentralized Applications (Dapps)](https://www.coursera.org/learn/decentralized-apps-on-blockchain?specialization=blockchain)** - <span class="completed-cert">Completed with certificate</span> - Jan. 2020 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/NW8Y7JPSUTYB)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraNW8Y7JPSUTYB.pdf)   
-  Develop end-to-end Dapps, integrate with front-end interfaces using MetaMask, and deploy using Truffle Suite.
-
-- **[Blockchain Platforms](https://www.coursera.org/learn/blockchain-platforms?specialization=blockchain)** - <span class="completed-cert">Completed with certificate</span> - Feb. 2020 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/NSTHYRJFE82X)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraNSTHYRJFE82X.pdf)   
-  Explore platforms like Hyperledger Fabric and Microsoft Azure, and analyze decentralized solutions like IPFS and Hashgraph.
-
-
-### IBM Blockchain Foundation for Developers - Course - Coursera
-
-- **[IBM Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)** by IBM - Coursera <span class="completed-cert">Completed with certificate</span> - Aug. 2018 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6GA4B4BZQFK7) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera6GA4B4BZQFK7.pdf)  <br>
-    This course provides a comprehensive overview of **business networks** utilizing **blockchain technology**, emphasizing **Hyperledger Composer** and **Hyperledger Fabric**. Participants learn about essential concepts, key use cases, and the process of transferring assets within a blockchain network. The course also covers **access control** mechanisms, **network consensus** methods, and the roles and responsibilities of individuals involved in building and maintaining a blockchain business network.
- 
-- **[Ethereum Developer Degree](https://learnweb3.io/degrees/ethereum-developer-degree)** by learnweb3.io <br>
-    - **[Freshman Graduate](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/)** <span class="completed-cert">[See Compeletion NFT on Opensea](https://opensea.io/item/matic/0x60f028C82f9f3bF71e0C13fE9e8E7f916b345C00/506584)</span> - Fundamentals of **blockchain**, **Ethereum**, and **Solidity** for building **dApps** and understanding **decentralized systems**.
-    - **[Sophomore Graduate](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore)** <span class="completed-cert">[See Compeletion NFT](https://polygonscan.com/nft/0x60f028c82f9f3bf71e0c13fe9e8e7f916b345c00/506593)</span> - Deep understanding of **gas**, **mining**, **PoW**, **PoS**, and **EVM**. Learn to build full **dApps** with **custom contracts**, **NFTs**, **DAOs**, **ICOs**, and **DEXs** using **React** and **Next.js**.
-    - **[Junior](https://learnweb3.io/degrees/ethereum-developer-degree/junior)** - <span class="in-progress">In progress</span> -Exploring **Layer 2** solutions, **ENS** integration, local **smart contract testing**, **IPFS**, **Ceramic**, **Chainlink VRF**, and **The Graph's Indexer**.
-    - **[Senior](https://learnweb3.io/degrees/ethereum-developer-degree/senior)** - <span class="in-progress">In progress</span> - Mastering advanced Web3 topics including **Merkle Trees**, **Flash Loans**, **Smart Contract Security**, **MEV**, and **Gas Optimization**.
-
-### Web3 and Blockchain Fundamentals - Course - Coursera
-
-- **[Web3 and Blockchain Fundamentals](https://www.coursera.org/learn/web3-blockchain-fundamentals)** by University at Buffalo - Coursera <span class="completed-cert">Completed with certificate</span> - Feb. 2024 -- May 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6V5AHVWBJPRO)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera6V5AHVWBJPRO.pdf) <br/>
-    This course covers essential concepts in **Web3**, including the foundational technologies that support **decentralized applications**, the roles of **smart contracts**, **digital assets**, and **governance tokens** within the ecosystem. Participants explore the implications of **DAOs** (Decentralized Autonomous Organizations) and identify key **blockchain design principles** along with the challenges associated with implementing blockchain technology in real-world scenarios.
-
-### Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial
-
-- **[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)** by [freeCodeCamp.org](https://www.freecodecamp.org/) <br><span class="in-progress">In progress</span> <br>
-    The blockchain course introduces participants to foundational concepts such as **blockchain technology**, **Ethereum** and **Bitcoin**, and essential components like **smart contracts** and **oracles**. Students learn to utilize **Metamask** for transactions, navigate **Ethereum testnets**, and understand **gas fees** and **consensus mechanisms**. The curriculum progresses from basic **Solidity programming** and deploying contracts to more advanced topics like building funding contracts and decentralized applications (**dApps**). Participants gain practical experience using frameworks like **Brownie** and **Web3.py**, exploring features like **Chainlink oracles**, **ERC20 token standards**, and **decentralized finance (DeFi)** applications. The lessons also cover advanced concepts, including the creation of **Non-Fungible Tokens (NFTs)** and the upgradeability of smart contracts, preparing students for practical applications in the decentralized ecosystem.
-
-
 # Artificial Intelligence
-
-
-### IBM AI Engineering Professional Certificate - Coursera
-[IBM AI Engineering Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ai-engineer) - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 -- July 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/XHNJCBYHUHMC) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraXHNJCBYHUHMC.pdf)
-
-- **[Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)** - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/YRGRS52Z9DXT) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraYRGRS52Z9DXT.pdf)
-  Build and evaluate **regression**, **classification**, and **clustering** models with **scikit-learn**.
-
-- **[Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/verify/OGKUR7018NYI)** - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/OGKUR7018NYI) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraOGKUR7018NYI.pdf)
-  Learn **deep learning fundamentals** — forward/backward propagation, activation functions — and build networks with **Keras**.
-
-- **[Deep Learning with Keras and Tensorflow](https://www.coursera.org/account/accomplishments/verify/ZZUNGCN3NBWI)** - <span class="completed-cert">Completed with certificate</span> - June 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/ZZUNGCN3NBWI) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraZZUNGCN3NBWI.pdf)
-  Advanced **Keras/TensorFlow**: custom layers, **CNNs**, **transformers**, **autoencoders**, **GANs**, unsupervised learning, and model optimization.
-
-- **[Introduction to Neural Networks and PyTorch](https://www.coursera.org/account/accomplishments/verify/6WLJGFV052NJ)** - <span class="completed-cert">Completed with certificate</span> - June 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6WLJGFV052NJ) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera6WLJGFV052NJ.pdf)
-  Build **tensors**, **gradient descent**, **linear/logistic regression**, and shallow neural networks in **PyTorch**.
-
-- **[Deep Learning with PyTorch](https://www.coursera.org/account/accomplishments/verify/Y7LLR78DUV21)** - <span class="completed-cert">Completed with certificate</span> - July 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/Y7LLR78DUV21) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraY7LLR78DUV21.pdf)
-  Implement **deep networks**, **dropout**, **batch normalization**, and **CNNs** in **PyTorch** for real-world tasks.
-
-- **[AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/verify/NL4YFJSUM7X1)** - <span class="completed-cert">Completed with certificate</span> - July 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/NL4YFJSUM7X1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraNL4YFJSUM7X1.pdf)
-  End-to-end **deep learning capstone**: build, train, validate, and deploy a model on a real dataset.
 
 
 ### IBM Generative AI Engineering Professional Certificate - Coursera
@@ -204,7 +100,29 @@ This program also includes the seven courses of the **Generative AI Engineering 
   Capstone: build a **QA bot** with **LangChain**, **vector databases**, and **watsonx** — a complete **RAG application**.
 
 
-### Deep Learning Specialization - Coursera 
+### IBM AI Engineering Professional Certificate - Coursera
+[IBM AI Engineering Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ai-engineer) - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 -- July 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/XHNJCBYHUHMC) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraXHNJCBYHUHMC.pdf)
+
+- **[Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)** - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/YRGRS52Z9DXT) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraYRGRS52Z9DXT.pdf)
+  Build and evaluate **regression**, **classification**, and **clustering** models with **scikit-learn**.
+
+- **[Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/verify/OGKUR7018NYI)** - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/OGKUR7018NYI) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraOGKUR7018NYI.pdf)
+  Learn **deep learning fundamentals** — forward/backward propagation, activation functions — and build networks with **Keras**.
+
+- **[Deep Learning with Keras and Tensorflow](https://www.coursera.org/account/accomplishments/verify/ZZUNGCN3NBWI)** - <span class="completed-cert">Completed with certificate</span> - June 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/ZZUNGCN3NBWI) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraZZUNGCN3NBWI.pdf)
+  Advanced **Keras/TensorFlow**: custom layers, **CNNs**, **transformers**, **autoencoders**, **GANs**, unsupervised learning, and model optimization.
+
+- **[Introduction to Neural Networks and PyTorch](https://www.coursera.org/account/accomplishments/verify/6WLJGFV052NJ)** - <span class="completed-cert">Completed with certificate</span> - June 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6WLJGFV052NJ) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera6WLJGFV052NJ.pdf)
+  Build **tensors**, **gradient descent**, **linear/logistic regression**, and shallow neural networks in **PyTorch**.
+
+- **[Deep Learning with PyTorch](https://www.coursera.org/account/accomplishments/verify/Y7LLR78DUV21)** - <span class="completed-cert">Completed with certificate</span> - July 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/Y7LLR78DUV21) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraY7LLR78DUV21.pdf)
+  Implement **deep networks**, **dropout**, **batch normalization**, and **CNNs** in **PyTorch** for real-world tasks.
+
+- **[AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/verify/NL4YFJSUM7X1)** - <span class="completed-cert">Completed with certificate</span> - July 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/NL4YFJSUM7X1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraNL4YFJSUM7X1.pdf)
+  End-to-end **deep learning capstone**: build, train, validate, and deploy a model on a real dataset.
+
+
+### Deep Learning Specialization - Coursera
 [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning) by [deeplearning.ai](https://www.deeplearning.ai)  
 
 - **[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)** - <span class="completed-cert">Completed with certificate</span> - July 2021 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/9KPTZJVMA78D)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera9KPTZJVMA78D.pdf)    
@@ -223,16 +141,18 @@ This program also includes the seven courses of the **Generative AI Engineering 
 - **[Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)** - Nov. 2024- <span class="audited-labs">Audit Completed with Labs</span> 
   Implement RNNs, GRUs, LSTMs, and transformers for NLP tasks like machine translation and named entity recognition, and apply attention mechanisms for enhanced performance.
 
-### AI For Everyone - Course - Coursera 
+
+### AI For Everyone - Course - Coursera
 - **[AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)** by [deeplearning.ai](https://www.deeplearning.ai) - Coursera - <span class="completed-cert">Completed with certificate</span> - Dec. 2019 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/E9QHLH2A529C)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraE9QHLH2A529C.pdf)  <br>
     This course provides a comprehensive introduction to **artificial intelligence (AI)**, focusing on its applications, impact on society, and essential concepts such as **machine learning**, **deep learning**, and **data science**. Participants will gain an understanding of how AI can be utilized in various industries and its relevance in the modern world.
 
-### Fundamentals of Reinforcement Learning - Course - Coursera 
+
+### Fundamentals of Reinforcement Learning - Course - Coursera
 - **[Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning?specialization=reinforcement-learning)** by UNIVERSITY OF ALBERTA, ALBERTA MACHINE INTELLIGENCE INSTITUTE - from [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)- Coursera <span class="completed-cert">Completed with certificate</span> - Dec. 2020 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/ZGPCDR8EJGTE)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraZGPCDR8EJGTE.pdf)  <br>
     This course introduces the core principles of **reinforcement learning**, covering key topics such as **Markov decision processes**, **value functions**, and **policy gradients**. Learners will explore fundamental algorithms and techniques used in reinforcement learning, gaining practical experience through programming assignments and projects.
 
 
-### Google AI Essentials Specialization – Coursera  
+### Google AI Essentials Specialization – Coursera
 [Google AI Essentials – Google Career Certificates – Coursera](https://www.coursera.org/specializations/ai-essentials-google) - <span class="completed-cert">Completed with certificate</span> - June 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/DHQIZ9Y7A9DZ) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraDHQIZ9Y7A9DZ.pdf)  
 
 - **[Introduction to AI](https://www.coursera.org/learn/introduction-to-ai-google)** - <span class="completed-cert">Completed with certificate</span> - June 10, 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/SH5UIKJ9MNJ6) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraSH5UIKJ9MNJ6.pdf)  
@@ -248,7 +168,62 @@ This program also includes the seven courses of the **Generative AI Engineering 
   Explore AI ethics, risks, biases, and responsible use with attention to privacy, fairness, and security.  
 
 - **[Stay Ahead of the AI Curve](https://www.coursera.org/learn/stay-ahead-ai-curve-google)** - <span class="completed-cert">Completed with certificate</span> - June 23, 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/6D4CY79P2GAO) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera6D4CY79P2GAO.pdf)  
-  Gain strategies to stay current in AI trends, evaluate emerging tools, and leverage AI in the workplace.  
+  Gain strategies to stay current in AI trends, evaluate emerging tools, and leverage AI in the workplace.
+
+
+# Blockchain, Smart Contracts and Web3
+
+
+### Blockchain Specialization - Coursera 
+[Blockchain Specialization - University at Buffalo - Coursera](https://www.coursera.org/specializations/blockchain) - <span class="completed-cert">Completed with certificate</span> - Feb. 2020 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/R7EPJZBHSMGH) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraR7EPJZBHSMGH.pdf)   
+
+- **[Blockchain Basics](https://www.coursera.org/learn/blockchain-basics?specialization=blockchain)** - <span class="completed-cert">Completed with certificate</span> - Dec. 2018 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/V7Q3QPWZ9WYB)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraV7Q3QPWZ9WYB.pdf)   
+  Understand the core principles of blockchain technology, including its structure, cryptographic security, and consensus mechanisms like PoW and PoS.
+
+- **[Smart Contracts](https://www.coursera.org/learn/smarter-contracts?specialization=blockchain)** - <span class="completed-cert">Completed with certificate</span> - July 2019 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/KKL6CMMVXWNJ)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraKKL6CMMVXWNJ.pdf)   
+  Learn to design, code, and deploy smart contracts using Solidity, and implement best practices for secure and efficient contract development.
+
+- **[Decentralized Applications (Dapps)](https://www.coursera.org/learn/decentralized-apps-on-blockchain?specialization=blockchain)** - <span class="completed-cert">Completed with certificate</span> - Jan. 2020 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/NW8Y7JPSUTYB)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraNW8Y7JPSUTYB.pdf)   
+  Develop end-to-end Dapps, integrate with front-end interfaces using MetaMask, and deploy using Truffle Suite.
+
+- **[Blockchain Platforms](https://www.coursera.org/learn/blockchain-platforms?specialization=blockchain)** - <span class="completed-cert">Completed with certificate</span> - Feb. 2020 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/NSTHYRJFE82X)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraNSTHYRJFE82X.pdf)   
+  Explore platforms like Hyperledger Fabric and Microsoft Azure, and analyze decentralized solutions like IPFS and Hashgraph.
+
+
+### IBM Blockchain Foundation for Developers - Course - Coursera
+
+- **[IBM Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)** by IBM - Coursera <span class="completed-cert">Completed with certificate</span> - Aug. 2018 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6GA4B4BZQFK7) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera6GA4B4BZQFK7.pdf)  <br>
+    This course provides a comprehensive overview of **business networks** utilizing **blockchain technology**, emphasizing **Hyperledger Composer** and **Hyperledger Fabric**. Participants learn about essential concepts, key use cases, and the process of transferring assets within a blockchain network. The course also covers **access control** mechanisms, **network consensus** methods, and the roles and responsibilities of individuals involved in building and maintaining a blockchain business network.
+
+### Ethereum Developer Degree - learnweb3.io
+
+- **[Ethereum Developer Degree](https://learnweb3.io/degrees/ethereum-developer-degree)** by learnweb3.io <br>
+    - **[Freshman Graduate](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/)** <span class="completed-cert">[See Compeletion NFT on Opensea](https://opensea.io/item/matic/0x60f028C82f9f3bF71e0C13fE9e8E7f916b345C00/506584)</span> - Fundamentals of **blockchain**, **Ethereum**, and **Solidity** for building **dApps** and understanding **decentralized systems**.
+    - **[Sophomore Graduate](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore)** <span class="completed-cert">[See Compeletion NFT](https://polygonscan.com/nft/0x60f028c82f9f3bf71e0c13fe9e8e7f916b345c00/506593)</span> - Deep understanding of **gas**, **mining**, **PoW**, **PoS**, and **EVM**. Learn to build full **dApps** with **custom contracts**, **NFTs**, **DAOs**, **ICOs**, and **DEXs** using **React** and **Next.js**.
+    - **[Junior](https://learnweb3.io/degrees/ethereum-developer-degree/junior)** - <span class="in-progress">In progress</span> -Exploring **Layer 2** solutions, **ENS** integration, local **smart contract testing**, **IPFS**, **Ceramic**, **Chainlink VRF**, and **The Graph's Indexer**.
+    - **[Senior](https://learnweb3.io/degrees/ethereum-developer-degree/senior)** - <span class="in-progress">In progress</span> - Mastering advanced Web3 topics including **Merkle Trees**, **Flash Loans**, **Smart Contract Security**, **MEV**, and **Gas Optimization**.
+
+### Web3 and Blockchain Fundamentals - Course - Coursera
+
+- **[Web3 and Blockchain Fundamentals](https://www.coursera.org/learn/web3-blockchain-fundamentals)** by University at Buffalo - Coursera <span class="completed-cert">Completed with certificate</span> - Feb. 2024 -- May 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6V5AHVWBJPRO)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera6V5AHVWBJPRO.pdf) <br/>
+    This course covers essential concepts in **Web3**, including the foundational technologies that support **decentralized applications**, the roles of **smart contracts**, **digital assets**, and **governance tokens** within the ecosystem. Participants explore the implications of **DAOs** (Decentralized Autonomous Organizations) and identify key **blockchain design principles** along with the challenges associated with implementing blockchain technology in real-world scenarios.
+
+### Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial
+
+- **[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)** by [freeCodeCamp.org](https://www.freecodecamp.org/) <br><span class="in-progress">In progress</span> <br>
+    The blockchain course introduces participants to foundational concepts such as **blockchain technology**, **Ethereum** and **Bitcoin**, and essential components like **smart contracts** and **oracles**. Students learn to utilize **Metamask** for transactions, navigate **Ethereum testnets**, and understand **gas fees** and **consensus mechanisms**. The curriculum progresses from basic **Solidity programming** and deploying contracts to more advanced topics like building funding contracts and decentralized applications (**dApps**). Participants gain practical experience using frameworks like **Brownie** and **Web3.py**, exploring features like **Chainlink oracles**, **ERC20 token standards**, and **decentralized finance (DeFi)** applications. The lessons also cover advanced concepts, including the creation of **Non-Fungible Tokens (NFTs)** and the upgradeability of smart contracts, preparing students for practical applications in the decentralized ecosystem.
+
+
+# Private & Secure AI and Data Science
+1. **[Our Privacy Opportunity](https://courses.openmined.org/courses/our-privacy-opportunity/)** by [openmined.org](https://www.openmined.org/) - <span class="completed-cert-awaiting">Completed with certificate awaiting</span> - Mar. 2021  
+   Explore structured transparency, **privacy techniques**, and the **privacy-transparency trade-off**.
+   
+2. **[Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation)** by [openmined.org](https://www.openmined.org/) - <span class="in-progress">In Progress</span> - Progress 80%  
+   Implement **federated learning**, **secure multi-party computation**, **homomorphic encryption**, and **differential privacy**.
+   
+3. **[Introduction to Remote Data Science](https://courses.openmined.org/courses/introduction-to-remote-data-science)** by [openmined.org](https://www.openmined.org/) - <span class="completed-cert-awaiting">Completed with certificate awaiting</span> - Feb. 2022  
+   Use **remote execution tools**, deploy **Domain Nodes**, and apply **privacy-preserving techniques** for distributed data science.
+
 
 
 # Data Science
@@ -260,7 +235,7 @@ This program also includes the seven courses of the **Generative AI Engineering 
 This 4-course specialization builds applied skills in **Python**, **data analysis**, **data visualization**, and a hands-on **capstone**. Its constituent courses (Python for Data Science, AI & Development; Data Analysis with Python; Data Visualization with Python; Applied Data Science Capstone) are listed under the IBM Data Science Professional Certificate below.
 
 
-### IBM Data Science Professional Certificate - Coursera  
+### IBM Data Science Professional Certificate - Coursera
 [IBM Data Science Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ibm-data-science) - <span class="completed-cert">Completed with certificate</span> - Apr. 2024 -- Aug. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://coursera.org/verify/professional-cert/1LTW6Q0BJG90) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera1LTW6Q0BJG90.pdf) 
 
 - **[What is Data Science?](https://www.coursera.org/learn/what-is-datascience)**  - <span class="completed-cert">Completed with certificate</span> - April, 2024 -- july, 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/SR0Z5BE7974N)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraSR0Z5BE7974N.pdf)  
@@ -300,7 +275,22 @@ This 4-course specialization builds applied skills in **Python**, **data analysi
   Prepare for a career in **data science** by learning about the role of a **data scientist**, building a job search foundation, creating essential job-seeking materials, and mastering **interview preparation techniques**.
 
 
-### IBM Data Analyst Professional Certificate - Coursera  
+### Capstone: Retrieving, Processing, and Visualizing Data with Python - Course - Coursera
+
+- **[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization)** by University of Michigan - Coursera - <span class="completed-cert">Completed with certificate</span> - Mar. 2020 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/AMT258XTJNDV) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraAMT258XTJNDV.pdf)  <br>
+    Capstone of the **Python for Everybody** track: build applications that **retrieve**, **process**, and **visualize data** using Python, covering web scraping, databases, and visualization.
+
+
+### The Data Scientist’s Toolbox - Course - Coursera
+
+- **[The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science)** by Johns Hopkins University - from [Data Science Specialization with R](https://www.coursera.org/specializations/jhu-data-science)- Coursera <br>
+    <span class="completed-cert">Completed with certificate</span> - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/verify/JFERSACDRNFK) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraJFERSACDRNFK.pdf)  <br>
+    This course introduces the main tools and ideas in the **data science toolbox**, providing an overview of the essential **data**, **questions**, and **tools** used by data analysts and scientists. It combines a conceptual understanding of how to transform data into actionable knowledge with practical skills in tools like **R**, **RStudio**, **Git**, and **GitHub**. Learners will set up these tools, create a **GitHub repository**, and understand crucial concepts such as **experimental design** and **big data**.
+
+
+# Data Analytics
+
+### IBM Data Analyst Professional Certificate - Coursera
 [IBM Data Analyst Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst) - <span class="completed-cert">Completed with certificate</span> - Sep. 2024 -- Aug. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/OO48G6O3YSMA) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraOO48G6O3YSMA.pdf)  
 
 - **[Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics)** - <span class="completed-cert">Completed with certificate</span> - Sep. 2024 -- Jul. 2025 [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/P5NNIBY11W7V) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraP5NNIBY11W7V.pdf)  
@@ -337,19 +327,6 @@ This 4-course specialization builds applied skills in **Python**, **data analysi
   Prepare **job applications**, resumes, portfolios, and practice **interviews** with SQL/Python challenges.
 
 
-
-### Capstone: Retrieving, Processing, and Visualizing Data with Python - Course - Coursera
-
-- **[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization)** by University of Michigan - Coursera - <span class="completed-cert">Completed with certificate</span> - Mar. 2020 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/AMT258XTJNDV) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraAMT258XTJNDV.pdf)  <br>
-    Capstone of the **Python for Everybody** track: build applications that **retrieve**, **process**, and **visualize data** using Python, covering web scraping, databases, and visualization.
-
-### The Data Scientist’s Toolbox - Course - Coursera 
-
-- **[The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science)** by Johns Hopkins University - from [Data Science Specialization with R](https://www.coursera.org/specializations/jhu-data-science)- Coursera <br>
-    <span class="completed-cert">Completed with certificate</span> - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/verify/JFERSACDRNFK) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraJFERSACDRNFK.pdf)  <br>
-    This course introduces the main tools and ideas in the **data science toolbox**, providing an overview of the essential **data**, **questions**, and **tools** used by data analysts and scientists. It combines a conceptual understanding of how to transform data into actionable knowledge with practical skills in tools like **R**, **RStudio**, **Git**, and **GitHub**. Learners will set up these tools, create a **GitHub repository**, and understand crucial concepts such as **experimental design** and **big data**.
-
-
 # Programming
 
 ### Mastering REST APIs with FastAPI - Packt - Coursera
@@ -363,7 +340,8 @@ This 4-course specialization builds applied skills in **Python**, **data analysi
     *   **Advanced Features:** Managing long-running tasks using FastAPI's background tasks (e.g., handling **image generation** via **DeepAI**), and enabling **file uploads** using external storage like **Backblaze B2**.
     *   **Deployment:** Updating projects to **Pydantic v2** for enhanced validation, and deploying the application to platforms like **Render** using **Continuous Integration (CI) pipelines** defined with **GitHub Actions**.
 
-### Meta React Specialization - Coursera  
+
+### Meta React Specialization - Coursera
 [Meta React Specialization - Coursera](https://www.coursera.org/specializations/meta-react-specialization) - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 [![verify certificate](https://img.shields.io/badge/Verify-Specialization-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/ZX9J08U5OOGG) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraZX9J08U5OOGG.pdf)  
 
 - **[React Basics](https://www.coursera.org/learn/react-basics?specialization=meta-react-specialization)** - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/E8LWTBEY8N31) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraE8LWTBEY8N31.pdf)  
@@ -373,12 +351,43 @@ This 4-course specialization builds applied skills in **Python**, **data analysi
   Master **advanced hooks**, **custom hooks**, **context API**, **HOCs**, **Render Props**, and **API data integration**. Learn **component composition**, **testing with React Testing Library**, and building production-ready applications.
 
 
-### Crash Course on Python - Google - Coursera 
+# Datacamp
+[https://www.datacamp.com/portfolio/umermajeed](https://www.datacamp.com/portfolio/umermajeed)
 
-- **[Crash Course on Python](https://www.coursera.org/learn/python-crash-course)** by Google - Coursera - <span class="completed-cert">Completed with certificate</span> - March 2020 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FEZNE2LWZJC2)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraFEZNE2LWZJC2.pdf)  <br> This course offers a comprehensive introduction to **Python syntax**, focusing on programming fundamentals and automation tasks relevant to IT roles. Participants learn about essential concepts such as **Python automation**, **code reuse**, and **refactoring**. The curriculum covers error handling techniques and includes a structured **problem-solving framework** to tackle complex programming challenges. Hands-on exercises enable learners to apply their skills in writing efficient Python scripts and manipulating data effectively. 
+- **[Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/ff5733b25213b4fcdebfe6d53ff5324ba59c4138?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/ff5733b25213b4fcdebfe6d53ff5324ba59c4138?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Introduction to Python.pdf)  
 
-### Introduction to C++ - Microsoft - edX 
+
+
+- **[Intermediate Python](https://www.datacamp.com/statement-of-accomplishment/course/e52f46933bc18b70339e2c2247e27c4c9a568549?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/e52f46933bc18b70339e2c2247e27c4c9a568549?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Intermediate Python.pdf)  
+
+- **[Data Types for Data Science in Python](https://www.datacamp.com/statement-of-accomplishment/course/1cccb170113fb7da5c6451858996125cc1691f23?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/1cccb170113fb7da5c6451858996125cc1691f23?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Data Types for Data Science in Python.pdf)  
+
+- **[Python Data Science Toolbox (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/cce853ee8500f12ab3e992044e8c39d64806a7fd?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/cce853ee8500f12ab3e992044e8c39d64806a7fd?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Python Data Science Toolbox (Part 1).pdf)  
+
+- **[Python Data Science Toolbox (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/8395e2fb15cb4f41ae023d2cfc546cd378bbb7ea?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/8395e2fb15cb4f41ae023d2cfc546cd378bbb7ea?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Python Data Science Toolbox (Part 2).pdf)  
+
+- **[Statistical Thinking in Python (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/9b6fb7af03f3853e7f6a50fb2fea61f119380388?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/9b6fb7af03f3853e7f6a50fb2fea61f119380388?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Statistical Thinking in Python (Part 1).pdf)  
+
+- **[Statistical Thinking in Python (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/5f7c6f6f9af48fc6358fe2d3c24d36decdb19795?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/5f7c6f6f9af48fc6358fe2d3c24d36decdb19795?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Statistical Thinking in Python (Part 2).pdf)  
+
+- **[Introduction to Version Control with Git](https://www.datacamp.com/statement-of-accomplishment/course/46688bffe2327453c6f8b869739c02aa88e0f214?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2018 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/46688bffe2327453c6f8b869739c02aa88e0f214?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Introduction to Version Control with Git.pdf)  
+
+- **[Intermediate SQL Queries](https://www.datacamp.com/statement-of-accomplishment/course/07967d6ba3f5253e7adfae8542cfd11366d51f59?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/07967d6ba3f5253e7adfae8542cfd11366d51f59?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Intermediate SQL Queries.pdf)  
+
+- **[Introduction to Shell](https://www.datacamp.com/statement-of-accomplishment/course/aa90c4ea52dce2e106be6a790c1d8719a103083f?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2018 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/aa90c4ea52dce2e106be6a790c1d8719a103083f?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Introduction to Shell.pdf)  
+
+- **[Introduction to Data Visualization in Python](https://www.datacamp.com/statement-of-accomplishment/course/79118f098714c3298f347fb33c945747317eb954?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2017 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/79118f098714c3298f347fb33c945747317eb954?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Introduction to Data Visualization in Python.pdf)  
+
+- **[Intermediate Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/e776b9a0bb4d64d92acc0ee1b6f5f25ebdb0e480?raw=1)** - <span class="completed-cert">Completed with certificate</span> - 2018 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/e776b9a0bb4d64d92acc0ee1b6f5f25ebdb0e480?raw=1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Datacamp-Intermediate Data Visualization with Seaborn.pdf)  
+
+# Other Courses
+
+### Crash Course on Python - Google - Coursera
+
+- **[Crash Course on Python](https://www.coursera.org/learn/python-crash-course)** by Google - Coursera - <span class="completed-cert">Completed with certificate</span> - March 2020 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FEZNE2LWZJC2)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraFEZNE2LWZJC2.pdf)  <br> This course offers a comprehensive introduction to **Python syntax**, focusing on programming fundamentals and automation tasks relevant to IT roles. Participants learn about essential concepts such as **Python automation**, **code reuse**, and **refactoring**. The curriculum covers error handling techniques and includes a structured **problem-solving framework** to tackle complex programming challenges. Hands-on exercises enable learners to apply their skills in writing efficient Python scripts and manipulating data effectively.
+
+
+### Introduction to C++ - Microsoft - edX
 - **[Introduction to C++](https://learning.edx.org/course/course-v1:Microsoft+DEV210x+2T2018/home)** by Microsoft - edX - <span class="completed-cert">Completed with certificate</span> - Dec. 2015 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://courses.edx.org/certificates/98da6862474844d5bce734099b094b9b) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/EdxCluspluscertificate98da6862474844d5bce734099b094b9b.pdf)   
 This course covers the fundamentals of **C++**, including **data types**, **control statements**, **functions**, and **object-oriented programming concepts**. It begins with an overview of C++ and progresses through essential topics such as **portability**, **compiling**, **variables**, **constants**, **operators**, **decision-making**, and **encapsulation**.
-
 
