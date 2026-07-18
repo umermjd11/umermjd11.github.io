@@ -118,7 +118,7 @@ Massive Open Online Courses (**MOOCs**) have enabled me to gain industry-relevan
 
 ### Web3 and Blockchain Fundamentals - Course - Coursera
 
-- **[Web3 and Blockchain Fundamentals](https://www.coursera.org/learn/web3-blockchain-fundamentals)** by INSEAD - Coursera <span class="completed-cert">Completed with certificate</span> - Feb. 2024 -- Aug. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6V5AHVWBJPRO)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera6V5AHVWBJPRO.pdf) <br/>
+- **[Web3 and Blockchain Fundamentals](https://www.coursera.org/learn/web3-blockchain-fundamentals)** by University at Buffalo - Coursera <span class="completed-cert">Completed with certificate</span> - Feb. 2024 -- May 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6V5AHVWBJPRO)  [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera6V5AHVWBJPRO.pdf) <br/>
     This course covers essential concepts in **Web3**, including the foundational technologies that support **decentralized applications**, the roles of **smart contracts**, **digital assets**, and **governance tokens** within the ecosystem. Participants explore the implications of **DAOs** (Decentralized Autonomous Organizations) and identify key **blockchain design principles** along with the challenges associated with implementing blockchain technology in real-world scenarios.
 
 ### Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial
@@ -127,7 +127,81 @@ Massive Open Online Courses (**MOOCs**) have enabled me to gain industry-relevan
     The blockchain course introduces participants to foundational concepts such as **blockchain technology**, **Ethereum** and **Bitcoin**, and essential components like **smart contracts** and **oracles**. Students learn to utilize **Metamask** for transactions, navigate **Ethereum testnets**, and understand **gas fees** and **consensus mechanisms**. The curriculum progresses from basic **Solidity programming** and deploying contracts to more advanced topics like building funding contracts and decentralized applications (**dApps**). Participants gain practical experience using frameworks like **Brownie** and **Web3.py**, exploring features like **Chainlink oracles**, **ERC20 token standards**, and **decentralized finance (DeFi)** applications. The lessons also cover advanced concepts, including the creation of **Non-Fungible Tokens (NFTs)** and the upgradeability of smart contracts, preparing students for practical applications in the decentralized ecosystem.
 
 
-# Artificial Intilligence
+# Artificial Intelligence
+
+
+### IBM AI Engineering Professional Certificate - Coursera
+[IBM AI Engineering Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ai-engineer) - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 -- July 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/XHNJCBYHUHMC) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraXHNJCBYHUHMC.pdf)
+
+- **[Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)** - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/YRGRS52Z9DXT) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraYRGRS52Z9DXT.pdf)
+  Build and evaluate **regression**, **classification**, and **clustering** models with **scikit-learn**.
+
+- **[Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/verify/OGKUR7018NYI)** - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/OGKUR7018NYI) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraOGKUR7018NYI.pdf)
+  Learn **deep learning fundamentals** — forward/backward propagation, activation functions — and build networks with **Keras**.
+
+- **[Deep Learning with Keras and Tensorflow](https://www.coursera.org/account/accomplishments/verify/ZZUNGCN3NBWI)** - <span class="completed-cert">Completed with certificate</span> - June 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/ZZUNGCN3NBWI) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraZZUNGCN3NBWI.pdf)
+  Advanced **Keras/TensorFlow**: custom layers, **CNNs**, **transformers**, **autoencoders**, **GANs**, unsupervised learning, and model optimization.
+
+- **[Introduction to Neural Networks and PyTorch](https://www.coursera.org/account/accomplishments/verify/6WLJGFV052NJ)** - <span class="completed-cert">Completed with certificate</span> - June 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6WLJGFV052NJ) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera6WLJGFV052NJ.pdf)
+  Build **tensors**, **gradient descent**, **linear/logistic regression**, and shallow neural networks in **PyTorch**.
+
+- **[Deep Learning with PyTorch](https://www.coursera.org/account/accomplishments/verify/Y7LLR78DUV21)** - <span class="completed-cert">Completed with certificate</span> - July 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/Y7LLR78DUV21) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraY7LLR78DUV21.pdf)
+  Implement **deep networks**, **dropout**, **batch normalization**, and **CNNs** in **PyTorch** for real-world tasks.
+
+- **[AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/verify/NL4YFJSUM7X1)** - <span class="completed-cert">Completed with certificate</span> - July 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/NL4YFJSUM7X1) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraNL4YFJSUM7X1.pdf)
+  End-to-end **deep learning capstone**: build, train, validate, and deploy a model on a real dataset.
+
+
+### IBM Generative AI Engineering Professional Certificate - Coursera
+[IBM Generative AI Engineering Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering) - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 -- May 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/PGKJUGYNM82U) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraPGKJUGYNM82U.pdf)
+
+This program also includes the seven courses of the **Generative AI Engineering with LLMs Specialization** listed in the next section.
+
+- **[Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai)** - <span class="completed-cert">Completed with certificate</span> - May 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/JZN6376CFF4A) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraJZN6376CFF4A.pdf)
+  Core **AI concepts**, applications, and business impact of **machine learning** and **deep learning**.
+
+- **[Generative AI: Introduction and Applications](https://www.coursera.org/account/accomplishments/verify/X0K5AE44ILFF)** - <span class="completed-cert">Completed with certificate</span> - May 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/X0K5AE44ILFF) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraX0K5AE44ILFF.pdf)
+  Landscape of **generative AI** models and tools for text, image, audio, and code generation.
+
+- **[Generative AI: Prompt Engineering Basics](https://www.coursera.org/account/accomplishments/verify/FZPPFNM6SLI0)** - <span class="completed-cert">Completed with certificate</span> - May 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FZPPFNM6SLI0) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraFZPPFNM6SLI0.pdf)
+  Craft effective prompts using techniques like **zero-shot**, **few-shot**, and **chain-of-thought** prompting.
+
+- **[Developing AI Applications with Python and Flask](https://www.coursera.org/account/accomplishments/verify/X614CKY6RFIZ)** - <span class="completed-cert">Completed with certificate</span> - May 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/X614CKY6RFIZ) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraX614CKY6RFIZ.pdf)
+  Build and deploy **AI web applications** with **Python**, **Flask**, and IBM **Watson AI** libraries, applying unit testing and PEP8 practices.
+
+- **[Building Generative AI-Powered Applications with Python](https://www.coursera.org/account/accomplishments/verify/A00SUNILHED0)** - <span class="completed-cert">Completed with certificate</span> - May 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/A00SUNILHED0) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraA00SUNILHED0.pdf)
+  Build **LLM-powered apps** — chatbots, voice assistants, and image captioning — integrating models like **Llama** and **GPT** via APIs.
+
+- **[Develop Generative AI Applications: Get Started](https://www.coursera.org/account/accomplishments/verify/E6C57SEHXSAA)** - <span class="completed-cert">Completed with certificate</span> - May 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/E6C57SEHXSAA) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraE6C57SEHXSAA.pdf)
+  Use **LangChain** and **watsonx** to build generative AI applications with prompt templates and chains.
+
+- **[Build RAG Applications: Get Started](https://www.coursera.org/account/accomplishments/verify/FQY0JYPY9CHH)** - <span class="completed-cert">Completed with certificate</span> - May 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FQY0JYPY9CHH) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraFQY0JYPY9CHH.pdf)
+  Implement **retrieval-augmented generation (RAG)** pipelines with **vector databases**, **embeddings**, and document retrievers.
+
+
+### Generative AI Engineering with LLMs Specialization - Coursera
+[Generative AI Engineering with LLMs Specialization - Coursera](https://www.coursera.org/specializations/generative-ai-engineering-with-llms) - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 -- Apr. 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/5SDJQ92GU5P6) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera5SDJQ92GU5P6.pdf)
+
+- **[Generative AI and LLMs: Architecture and Data Preparation](https://www.coursera.org/account/accomplishments/verify/2Y8VHM04X558)** - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/2Y8VHM04X558) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera2Y8VHM04X558.pdf)
+  **LLM architectures** (GPT, BERT, T5), tokenization, and **data preparation** pipelines with **Hugging Face** and **PyTorch**.
+
+- **[Gen AI Foundational Models for NLP & Language Understanding](https://www.coursera.org/account/accomplishments/verify/YYLCAGE38N7V)** - <span class="completed-cert">Completed with certificate</span> - Oct. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/YYLCAGE38N7V) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraYYLCAGE38N7V.pdf)
+  **Word embeddings** (Word2Vec), **N-gram** and **sequence-to-sequence models** for NLP tasks in **PyTorch**.
+
+- **[Generative AI Language Modeling with Transformers](https://www.coursera.org/account/accomplishments/verify/0I89LML1WGWP)** - <span class="completed-cert">Completed with certificate</span> - Oct. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/0I89LML1WGWP) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/Coursera0I89LML1WGWP.pdf)
+  **Transformer architectures** — attention mechanisms, encoders/decoders, **GPT** and **BERT** — for language modeling.
+
+- **[Generative AI Engineering and Fine-Tuning Transformers](https://www.coursera.org/account/accomplishments/verify/X3Y6QTE2NKQZ)** - <span class="completed-cert">Completed with certificate</span> - Nov. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/X3Y6QTE2NKQZ) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraX3Y6QTE2NKQZ.pdf)
+  **Fine-tune transformers** with **PEFT**, **LoRA**, and **QLoRA** using **Hugging Face** and **PyTorch**.
+
+- **[Generative AI Advanced Fine-Tuning for LLMs](https://www.coursera.org/account/accomplishments/verify/VMTCH7Y3OP3O)** - <span class="completed-cert">Completed with certificate</span> - Feb. 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/VMTCH7Y3OP3O) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraVMTCH7Y3OP3O.pdf)
+  Align LLMs with **instruction tuning**, **RLHF**, **DPO**, and reward modeling.
+
+- **[Fundamentals of AI Agents Using RAG and LangChain](https://www.coursera.org/account/accomplishments/verify/A4PDBOE0XZMC)** - <span class="completed-cert">Completed with certificate</span> - Mar. 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/A4PDBOE0XZMC) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraA4PDBOE0XZMC.pdf)
+  Build **AI agents** combining **RAG**, **in-context learning**, and **LangChain** tools, chains, and agents.
+
+- **[Project: Generative AI Applications with RAG and LangChain](https://www.coursera.org/account/accomplishments/verify/K7DAY7ZZ2QRE)** - <span class="completed-cert">Completed with certificate</span> - Apr. 2026 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/K7DAY7ZZ2QRE) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraK7DAY7ZZ2QRE.pdf)
+  Capstone: build a **QA bot** with **LangChain**, **vector databases**, and **watsonx** — a complete **RAG application**.
 
 
 ### Deep Learning Specialization - Coursera 
@@ -178,6 +252,12 @@ Massive Open Online Courses (**MOOCs**) have enabled me to gain industry-relevan
 
 
 # Data Science
+
+
+### Applied Data Science Specialization - Coursera
+[Applied Data Science Specialization - IBM - Coursera](https://www.coursera.org/specializations/applied-data-science) - <span class="completed-cert">Completed with certificate</span> - Aug. 2025 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/GD63KJXG72WD) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraGD63KJXG72WD.pdf)
+
+This 4-course specialization builds applied skills in **Python**, **data analysis**, **data visualization**, and a hands-on **capstone**. Its constituent courses (Python for Data Science, AI & Development; Data Analysis with Python; Data Visualization with Python; Applied Data Science Capstone) are listed under the IBM Data Science Professional Certificate below.
 
 
 ### IBM Data Science Professional Certificate - Coursera  
@@ -258,6 +338,11 @@ Massive Open Online Courses (**MOOCs**) have enabled me to gain industry-relevan
 
 
 
+### Capstone: Retrieving, Processing, and Visualizing Data with Python - Course - Coursera
+
+- **[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization)** by University of Michigan - Coursera - <span class="completed-cert">Completed with certificate</span> - Mar. 2020 - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/AMT258XTJNDV) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraAMT258XTJNDV.pdf)  <br>
+    Capstone of the **Python for Everybody** track: build applications that **retrieve**, **process**, and **visualize data** using Python, covering web scraping, databases, and visualization.
+
 ### The Data Scientist’s Toolbox - Course - Coursera 
 
 - **[The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science)** by Johns Hopkins University - from [Data Science Specialization with R](https://www.coursera.org/specializations/jhu-data-science)- Coursera <br>
@@ -269,7 +354,7 @@ Massive Open Online Courses (**MOOCs**) have enabled me to gain industry-relevan
 
 ### Mastering REST APIs with FastAPI - Packt - Coursera
 
-- **[Mastering REST APIs with FastAPI](https://www.coursera.org/learn/packt-mastering-rest-apis-with-fastapi-1xeea)** by Packt - Coursera - <span class="completed-cert">Completed with certificate</span> - **Oct 2025** - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/DP160TPZG2BQ) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraDP160TPZG2BQ.pdf) <br> This **intermediate-level** course is designed for those **familiar with Python** who want to master building **robust and efficient REST APIs** using the **FastAPI** web framework. The core objective is building an entire **social media API**. Key areas covered include:
+- **[Mastering REST APIs with FastAPI](https://www.coursera.org/learn/packt-mastering-rest-apis-with-fastapi-1xeea)** by Packt - Coursera - <span class="completed-cert">Completed with certificate</span> - **May 2026** - [![verify certificate](https://img.shields.io/badge/Verify-certificate-00A86B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/DP160TPZG2BQ) [![PDF Badge](https://img.shields.io/badge/Certificate%20in-PDF-FF5722?style=for-the-badge&logo=file-pdf&logoColor=white)]({{ site.url }}/files/CourseraDP160TPZG2BQ.pdf) <br> This **intermediate-level** course is designed for those **familiar with Python** who want to master building **robust and efficient REST APIs** using the **FastAPI** web framework. The core objective is building an entire **social media API**. Key areas covered include:
     *   **API Fundamentals:** Starting with core concepts of APIs and **REST** principles.
     *   **Data and Persistence:** Integrating **asynchronous databases** (like SQLite/PostgreSQL) using lifespan events, implementing configuration management with **Pydantic BaseSettings**, and handling complex structures like **many-to-many relationships**.
     *   **Security & Authentication:** Implementing **user authentication** using **JWTs** (Bearer Tokens), securing passwords with **passlib**, and implementing **user email confirmation**.
